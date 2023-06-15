@@ -1,0 +1,464 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://data.crc.fr/iiif/manifests/Avranches_BM_59.json",
+  "type": "Manifest",
+  "label": {
+    "fr": [
+      "MS 59 Avranches - analyses physico-chimique @CRC"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "fr": [
+          "Institutions"
+        ]
+      },
+      "value": {
+        "fr": [
+          "Centre de la Recherche sur la Conservations, Museum nationale d'Histoire Naturelle, Centre de la Recherche sur la Conservation"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Sources des données 0"
+        ]
+      },
+      "value": {
+        "fr": [
+          "https://doi.org/10.48579/PRO/CM1FLM"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Techniques utilisées"
+        ]
+      },
+      "value": {
+        "fr": [
+          "XRF, Hyperspecral"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Responsable Scientifique 0"
+        ]
+      },
+      "value": {
+        "fr": [
+          "MICHELIN Anne"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Responsable Scientifique"
+        ]
+      },
+      "value": {
+        "fr": [
+          "n.c., Ingénieur de recherche"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "fr": [
+      "test bidule"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "fr": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "fr": [
+        "<span>Centre de la Recherche sur la Conservation. <a href=\\\"https://spdx.org/licenses/etalab-2.0.html\\\">OPEN LICENCE 2.0</a> <a href=\\\"https://spdx.org/licenses/etalab-2.0.html\\\" title\\\"Etalab 2.0\\\"><img src=\\\"https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif\\\"/></a></span>"
+      ]
+    }
+  },
+  "viewingDirection": "left-to-right",
+  "rights": "https://spdx.org/licenses/etalab-2.0.html",
+  "seeAlso": [
+    {
+      "id": "https://emmsm.unicaen.fr/manifests/Avranches_BM_59.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Avranches BM, 59"
+        ]
+      },
+      "format": "application/ld+json"
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif/full/full/0/default.jpg",
+      "type": "Image",
+      "height": 300,
+      "width": 200,
+      "service": [
+        {
+          "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif",
+          "type": "ImageService3",
+          "profile": "level2"
+        }
+      ],
+      "format": "image/tif"
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
+      "type": "Canvas",
+      "height": 6074,
+      "width": 4429,
+      "items": [
+        {
+          "id": "https://data.crc.fr/iiif//page/p0/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.crc.fr/iiif//annotation/p00000-image",
+              "type": "Annotation",
+              "service": [
+                {
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif",
+                  "type": "ImageService3",
+                  "profile": "level2"
+                }
+              ],
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif/full/full/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6074,
+                "width": 4429,
+                "format": "image/tif"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11",
+      "type": "Canvas",
+      "height": 6074,
+      "width": 4429,
+      "items": [
+        {
+          "id": "https://data.crc.fr/iiif//page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.crc.fr/iiif//annotation/p00001-image",
+              "type": "Annotation",
+              "service": [
+                {
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0011.tif",
+                  "type": "ImageService3",
+                  "profile": "level2"
+                }
+              ],
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0011.tif/full/full/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6074,
+                "width": 4429,
+                "format": "image/tif"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34",
+      "type": "Canvas",
+      "height": 6041,
+      "width": 4368,
+      "items": [
+        {
+          "id": "https://data.crc.fr/iiif//page/p2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.crc.fr/iiif//annotation/p00002-image",
+              "type": "Annotation",
+              "service": [
+                {
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0034.tif",
+                  "type": "ImageService3",
+                  "profile": "level2"
+                }
+              ],
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0034.tif/full/full/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6041,
+                "width": 4368,
+                "format": "image/tif"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
+      "type": "Canvas",
+      "height": 6092,
+      "width": 4310,
+      "items": [
+        {
+          "id": "https://data.crc.fr/iiif//page/p3/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.crc.fr/iiif//annotation/p00003-image",
+              "type": "Annotation",
+              "service": [
+                {
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0070.tif",
+                  "type": "ImageService3",
+                  "profile": "level2"
+                }
+              ],
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0070.tif/full/full/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6092,
+                "width": 4310,
+                "format": "image/tif"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
+      "type": "Canvas",
+      "height": 6085,
+      "width": 4457,
+      "items": [
+        {
+          "id": "https://data.crc.fr/iiif//page/p4/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.crc.fr/iiif//annotation/p00004-image",
+              "type": "Annotation",
+              "service": [
+                {
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0091.tif",
+                  "type": "ImageService3",
+                  "profile": "level2"
+                }
+              ],
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0091.tif/full/full/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6085,
+                "width": 4457,
+                "format": "image/tif"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114",
+      "type": "Canvas",
+      "height": 6110,
+      "width": 4329,
+      "items": [
+        {
+          "id": "https://data.crc.fr/iiif//page/p5/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.crc.fr/iiif//annotation/p00005-image",
+              "type": "Annotation",
+              "service": [
+                {
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0114.tif",
+                  "type": "ImageService3",
+                  "profile": "level2"
+                }
+              ],
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0114.tif/full/full/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6110,
+                "width": 4329,
+                "format": "image/tif"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/115",
+      "type": "Canvas",
+      "height": 6110,
+      "width": 4329,
+      "items": [
+        {
+          "id": "https://data.crc.fr/iiif//page/p6/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.crc.fr/iiif//annotation/p00006-image",
+              "type": "Annotation",
+              "service": [
+                {
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0115.tif",
+                  "type": "ImageService3",
+                  "profile": "level2"
+                }
+              ],
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0115.tif/full/full/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6110,
+                "width": 4329,
+                "format": "image/tif"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/115"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/118",
+      "type": "Canvas",
+      "height": 6091,
+      "width": 4351,
+      "items": [
+        {
+          "id": "https://data.crc.fr/iiif//page/p7/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.crc.fr/iiif//annotation/p00007-image",
+              "type": "Annotation",
+              "service": [
+                {
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0118.tif",
+                  "type": "ImageService3",
+                  "profile": "level2"
+                }
+              ],
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0118.tif/full/full/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6091,
+                "width": 4351,
+                "format": "image/tif"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/118"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/163",
+      "type": "Canvas",
+      "height": 6113,
+      "width": 4307,
+      "items": [
+        {
+          "id": "https://data.crc.fr/iiif//page/p8/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.crc.fr/iiif//annotation/p00008-image",
+              "type": "Annotation",
+              "service": [
+                {
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0163.tif",
+                  "type": "ImageService3",
+                  "profile": "level2"
+                }
+              ],
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0163.tif/full/full/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6113,
+                "width": 4307,
+                "format": "image/tif"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/163"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/260",
+      "type": "Canvas",
+      "height": 6060,
+      "width": 4197,
+      "items": [
+        {
+          "id": "https://data.crc.fr/iiif//page/p9/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://data.crc.fr/iiif//annotation/p00009-image",
+              "type": "Annotation",
+              "service": [
+                {
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0260.tif",
+                  "type": "ImageService3",
+                  "profile": "level2"
+                }
+              ],
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0260.tif/full/full/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6060,
+                "width": 4197,
+                "format": "image/tif"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/260"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
