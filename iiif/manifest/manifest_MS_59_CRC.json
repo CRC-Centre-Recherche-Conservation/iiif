@@ -135,7 +135,7 @@
               "type": "Annotation",
               "service": [
                 {
-                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif/info.json",
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif",
                   "type": "ImageService3",
                   "profile": "level2"
                 }
@@ -146,7 +146,7 @@
                 "type": "dctypes:Image",
                 "height": 6074,
                 "width": 4429,
-                "format": "image/tif"
+                "format": "image/jpeg"
               },
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10"
             }
@@ -169,7 +169,7 @@
               "type": "Annotation",
               "service": [
                 {
-                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0011.tif/info.json",
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0011.tif",
                   "type": "ImageService3",
                   "profile": "level2"
                 }
@@ -180,7 +180,7 @@
                 "type": "dctypes:Image",
                 "height": 6074,
                 "width": 4429,
-                "format": "image/tif"
+                "format": "image/jpeg"
               },
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11"
             }
@@ -203,7 +203,7 @@
               "type": "Annotation",
               "service": [
                 {
-                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0034.tif/info.json",
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0034.tif",
                   "type": "ImageService3",
                   "profile": "level2"
                 }
@@ -214,7 +214,7 @@
                 "type": "dctypes:Image",
                 "height": 6041,
                 "width": 4368,
-                "format": "image/tif"
+                "format": "image/jpeg"
               },
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34"
             }
@@ -237,7 +237,7 @@
               "type": "Annotation",
               "service": [
                 {
-                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0070.tif/info.json",
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0070.tif",
                   "type": "ImageService3",
                   "profile": "level2"
                 }
@@ -248,7 +248,7 @@
                 "type": "dctypes:Image",
                 "height": 6092,
                 "width": 4310,
-                "format": "image/tif"
+                "format": "image/jpeg"
               },
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70"
             }
@@ -271,7 +271,7 @@
               "type": "Annotation",
               "service": [
                 {
-                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0091.tif/info.json",
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0091.tif",
                   "type": "ImageService3",
                   "profile": "level2"
                 }
@@ -282,7 +282,7 @@
                 "type": "dctypes:Image",
                 "height": 6085,
                 "width": 4457,
-                "format": "image/tif"
+                "format": "image/jpeg"
               },
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91"
             }
@@ -305,7 +305,7 @@
               "type": "Annotation",
               "service": [
                 {
-                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0114.tif/info.json",
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0114.tif",
                   "type": "ImageService3",
                   "profile": "level2"
                 }
@@ -316,7 +316,7 @@
                 "type": "dctypes:Image",
                 "height": 6110,
                 "width": 4329,
-                "format": "image/tif"
+                "format": "image/jpeg"
               },
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114"
             }
@@ -339,7 +339,7 @@
               "type": "Annotation",
               "service": [
                 {
-                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0115.tif/info.json",
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0115.tif",
                   "type": "ImageService3",
                   "profile": "level2"
                 }
@@ -350,7 +350,7 @@
                 "type": "dctypes:Image",
                 "height": 6110,
                 "width": 4329,
-                "format": "image/tif"
+                "format": "image/jpeg"
               },
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/115"
             }
@@ -373,7 +373,7 @@
               "type": "Annotation",
               "service": [
                 {
-                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0118.tif/info.json",
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0118.tif",
                   "type": "ImageService3",
                   "profile": "level2"
                 }
@@ -384,7 +384,7 @@
                 "type": "dctypes:Image",
                 "height": 6091,
                 "width": 4351,
-                "format": "image/tif"
+                "format": "image/jpeg"
               },
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/118"
             }
@@ -407,7 +407,7 @@
               "type": "Annotation",
               "service": [
                 {
-                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0163.tif/info.json",
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0163.tif",
                   "type": "ImageService3",
                   "profile": "level2"
                 }
@@ -418,7 +418,7 @@
                 "type": "dctypes:Image",
                 "height": 6113,
                 "width": 4307,
-                "format": "image/tif"
+                "format": "image/jpeg"
               },
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/163"
             }
@@ -441,7 +441,7 @@
               "type": "Annotation",
               "service": [
                 {
-                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0260.tif/info.json",
+                  "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0260.tif",
                   "type": "ImageService3",
                   "profile": "level2"
                 }
@@ -452,7 +452,7 @@
                 "type": "dctypes:Image",
                 "height": 6060,
                 "width": 4197,
-                "format": "image/tif"
+                "format": "image/jpeg"
               },
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/260"
             }
