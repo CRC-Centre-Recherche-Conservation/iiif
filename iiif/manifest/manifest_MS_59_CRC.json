@@ -160,11 +160,11 @@
       ],
       "annotations": [
         {
-          "id": "http://example.org/iiif/1",
+          "id": "https://data.crc.fr/iiif//page/p0/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_0",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_0-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -177,7 +177,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"sXRF_01\" x=\"448.6144883\" y=\"717.5513018\" width=\"97.69778078\" height=\"57.45633718\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -218,7 +219,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=448.6144883,717.5513018,97.69778078,57.45633718"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_1-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -231,7 +232,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"Mvis_04\" x=\"213.1938339\" y=\"433.6607675\" width=\"13.63537374\" height=\"12.38957356\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -272,7 +274,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=213.1938339,433.6607675,13.63537374,12.38957356"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_2",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_2-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -285,7 +287,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"Mvis_03\" x=\"408.5006214\" y=\"698.1815518\" width=\"28.72184201\" height=\"29.59871915\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -326,7 +329,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=408.5006214,698.1815518,28.72184201,29.59871915"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_3",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_3-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -339,7 +342,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"Mvis_02\" x=\"279.4841165\" y=\"600.5489238\" width=\"23.43666772\" height=\"19.60033974\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -368,7 +372,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=279.4841165,600.5489238,23.43666772,19.60033974"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_4",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_4-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -381,7 +385,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"Mvis_01\" x=\"603.4610036\" y=\"700.7932035\" width=\"27.85148316\" height=\"24.37541577\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -410,7 +415,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=603.4610036,700.7932035,27.85148316,24.37541577"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_5",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_5-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -423,7 +428,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"IR_01\" x=\"268.8651602\" y=\"391.7477535\" width=\"17.8423564\" height=\"17.41101127\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -452,7 +458,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=268.8651602,391.7477535,17.8423564,17.41101127"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_6",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_6-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -465,7 +471,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FTIR_03\" x=\"286.6747391\" y=\"59.5\" width=\"21.99515511\" height=\"20.5\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -482,7 +489,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=286.6747391,59.5,21.99515511,20.5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_7",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_7-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -495,7 +502,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FTIR_02\" x=\"230.1067633\" y=\"682.1838089\" width=\"17.14459895\" height=\"17.1483754\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -524,7 +532,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=230.1067633,682.1838089,17.14459895,17.1483754"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_8",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_8-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -537,7 +545,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_13\" x=\"203.8540962\" y=\"688.0785629\" width=\"22.50228612\" height=\"21.97135598\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -566,7 +575,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=203.8540962,688.0785629,22.50228612,21.97135598"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_9",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_9-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -579,7 +588,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_12\" x=\"441.8692073\" y=\"688.1702203\" width=\"13.49056216\" height=\"15.88754778\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -596,7 +606,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=441.8692073,688.1702203,13.49056216,15.88754778"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_10",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_10-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -609,7 +619,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_11\" x=\"419.8926463\" y=\"702.3166669\" width=\"13.70815187\" height=\"14.79935958\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -650,7 +661,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=419.8926463,702.3166669,13.70815187,14.79935958"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_11",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_11-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -663,7 +674,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_10\" x=\"279.6649436\" y=\"604.5973662\" width=\"10.44679847\" height=\"12.84062081\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -692,7 +704,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=279.6649436,604.5973662,10.44679847,12.84062081"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_12",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_12-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -705,7 +717,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_09\" x=\"376.026798\" y=\"723.7546605\" width=\"18.18459327\" height=\"15.91502395\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -734,7 +747,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=376.026798,723.7546605,18.18459327,15.91502395"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_13",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_13-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -747,7 +760,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_08\" x=\"231.0029207\" y=\"414.8173434\" width=\"9.356357625\" height=\"8.05259271\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -776,7 +790,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=231.0029207,414.8173434,9.356357625,8.05259271"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_14",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_14-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -789,7 +803,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_07\" x=\"215.5431713\" y=\"435.4929193\" width=\"8.841236369\" height=\"7.617317429\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -818,7 +833,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=215.5431713,435.4929193,8.841236369,7.617317429"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_15",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_15-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -831,7 +846,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M456.1608651,409.0c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_06\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -860,7 +876,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=456.1608651,409.0,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_16",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_16-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -873,7 +889,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M222.5095988,424.9460492c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_05\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -902,7 +919,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=222.5095988,424.9460492,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_17",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_17-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -915,7 +932,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M223.5700254,265.1399167c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_04\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -944,7 +962,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=223.5700254,265.1399167,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_18",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_18-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -957,7 +975,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M453.6163727,191.4909967c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_03\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -986,7 +1005,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=453.6163727,191.4909967,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_19",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_19-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -999,7 +1018,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M446.9192637,168.1799239c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_02\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1028,7 +1048,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=446.9192637,168.1799239,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_20",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_20-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1041,7 +1061,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M219.7121087,123.6834042c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_01\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1070,7 +1091,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=219.7121087,123.6834042,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_21",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_21-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1083,7 +1104,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M289.6735279,191.0c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"Prot_42\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1112,7 +1134,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=289.6735279,191.0,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_22",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_22-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1125,7 +1147,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M272.768951,485.0331877c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"Prot_41\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1154,7 +1177,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=272.768951,485.0331877,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_23",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_23-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1167,7 +1190,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M470.7286778,176.3980156c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"P_01\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1251,11 +1275,11 @@
       ],
       "annotations": [
         {
-          "id": "http://example.org/iiif/2",
+          "id": "https://data.crc.fr/iiif//page/p1/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_0",
+              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_0-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1268,7 +1292,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"mVis_06\" x=\"124.446389\" y=\"518.6373073\" width=\"22.96890773\" height=\"24.40984004\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -1309,7 +1334,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=124.446389,518.6373073,22.96890773,24.40984004"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_1",
+              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_1-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1322,12 +1347,13 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"mVis_05\" x=\"48.93610486\" y=\"593.0155258\" width=\"27.27557792\" height=\"18.95352286\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_2",
+              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_2-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1340,7 +1366,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_15\" x=\"92.39137228\" y=\"659.0067764\" width=\"8.703588488\" height=\"10.22896912\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -1369,7 +1396,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=92.39137228,659.0067764,8.703588488,10.22896912"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_3",
+              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_3-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1382,7 +1409,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_14\" x=\"162.6747665\" y=\"530.3829307\" width=\"13.49056216\" height=\"10.88188204\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -1411,7 +1439,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=162.6747665,530.3829307,13.49056216,10.88188204"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_4",
+              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_4-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1424,7 +1452,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M634.8114048,457.2908154c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"P_02\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1496,11 +1525,11 @@
       ],
       "annotations": [
         {
-          "id": "http://example.org/iiif/3",
+          "id": "https://data.crc.fr/iiif//page/p2/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_0",
+              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_0-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1513,7 +1542,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4368\" height=\"6041\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_16\" x=\"466.6126365\" y=\"204.0\" width=\"14.99669667\" height=\"16.5\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -1542,7 +1572,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=466.6126365,204.0,14.99669667,16.5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_1",
+              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_1-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1555,7 +1585,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4368\" height=\"6041\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M133.9753126,239.1120911c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_04\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1584,7 +1615,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=133.9753126,239.1120911,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_2",
+              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_2-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1597,7 +1628,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4368\" height=\"6041\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M273.0639942,203.4089031c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_03\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1626,7 +1658,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=273.0639942,203.4089031,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_3",
+              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_3-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1639,7 +1671,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4368\" height=\"6041\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M213.674358,233.5719413c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_02\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1668,7 +1701,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=213.674358,233.5719413,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_4",
+              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_4-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1681,7 +1714,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4368\" height=\"6041\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M470.6274645,215.642442c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_01\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1753,11 +1787,11 @@
       ],
       "annotations": [
         {
-          "id": "http://example.org/iiif/4",
+          "id": "https://data.crc.fr/iiif//page/p3/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_0",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_0-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1770,7 +1804,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FTIR_10\" x=\"162.3220277\" y=\"541.8686725\" width=\"15.15382772\" height=\"14.77823652\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -1799,7 +1834,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=162.3220277,541.8686725,15.15382772,14.77823652"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_1-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1812,7 +1847,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FTIR_09\" x=\"221.4237491\" y=\"570.4282566\" width=\"19.5830741\" height=\"16.75809834\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -1841,7 +1877,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=221.4237491,570.4282566,19.5830741,16.75809834"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_2",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_2-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1854,7 +1890,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FTIR_08\" x=\"192.0435303\" y=\"651.6070966\" width=\"16.1016387\" height=\"21.11085116\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -1883,7 +1920,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=192.0435303,651.6070966,16.1016387,21.11085116"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_3",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_3-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1896,7 +1933,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FTIR_04\" x=\"245.34352\" y=\"372.1603658\" width=\"12.62020331\" height=\"13.71117137\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -1925,7 +1963,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=245.34352,372.1603658,12.62020331,13.71117137"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_4",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_4-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1938,7 +1976,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_19\" x=\"192.6962995\" y=\"652.2600095\" width=\"8.921178201\" height=\"8.270230351\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -1967,7 +2006,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=192.6962995,652.2600095,8.921178201,8.270230351"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_5",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_5-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1980,7 +2019,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_18\" x=\"225.777796\" y=\"573.0399083\" width=\"7.615639927\" height=\"7.617317429\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -2009,7 +2049,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=225.777796,573.0399083,7.615639927,7.617317429"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_6",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_6-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2022,7 +2062,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_17\" x=\"385.8409866\" y=\"493.3657424\" width=\"7.955759554\" height=\"8.715370257\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -2051,7 +2092,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=385.8409866,493.3657424,7.955759554,8.715370257"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_7",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_7-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2064,7 +2105,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M456.7948847,362.4783237c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_08\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2093,7 +2135,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=456.7948847,362.4783237,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_8",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_8-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2106,7 +2148,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M475.9438338,361.1724978c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_07\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2135,7 +2178,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=475.9438338,361.1724978,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_9",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_9-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2148,7 +2191,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M227.5173204,317.5274442c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_06\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2177,7 +2221,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=227.5173204,317.5274442,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_10",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_10-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2190,7 +2234,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M210.7940067,277.2080494c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_05\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2219,7 +2264,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=210.7940067,277.2080494,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_11",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_11-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2232,7 +2277,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M194.9818832,368.35454c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_04\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2261,7 +2307,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=194.9818832,368.35454,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_12",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_12-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2274,7 +2320,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M201.0863294,658.0302399c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_03\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2303,7 +2350,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=201.0863294,658.0302399,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_13",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_13-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2316,7 +2363,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M249.8144907,416.4524586c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_02\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2345,7 +2393,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=249.8144907,416.4524586,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_14",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_14-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2358,7 +2406,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M233.0603225,566.4047931c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_01\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2387,7 +2436,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=233.0603225,566.4047931,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_15",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_15-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2400,7 +2449,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M238.2789768,562.9225909c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"P_44\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2429,7 +2479,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=238.2789768,562.9225909,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_16",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_16-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2442,7 +2492,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M251.0600393,517.8460161c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"P_43\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2514,11 +2565,11 @@
       ],
       "annotations": [
         {
-          "id": "http://example.org/iiif/5",
+          "id": "https://data.crc.fr/iiif//page/p4/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_0",
+              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_0-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2531,7 +2582,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FTIR_05\" x=\"396.9484488\" y=\"346.6197286\" width=\"14.35556733\" height=\"16.36895156\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -2560,7 +2612,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=396.9484488,346.6197286,14.35556733,16.36895156"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_1",
+              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_1-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2573,7 +2625,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FOS_07\" x=\"460.3396496\" y=\"343.6498349\" width=\"6.092511942\" height=\"7.399679788\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -2602,7 +2655,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=460.3396496,343.6498349,6.092511942,7.399679788"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_2",
+              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_2-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2615,7 +2668,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_06\" x=\"467.7383229\" y=\"390.8772029\" width=\"6.962870791\" height=\"6.964404506\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -2644,7 +2698,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=467.7383229,390.8772029,6.962870791,6.964404506"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_3",
+              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_3-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2657,7 +2711,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_05\" x=\"301.064795\" y=\"512.5366441\" width=\"4.786973669\" height=\"3.917477535\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -2686,7 +2741,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=301.064795,512.5366441,4.786973669,3.917477535"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_4",
+              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_4-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2699,7 +2754,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_04\" x=\"329.5681367\" y=\"511.0131807\" width=\"5.222153093\" height=\"3.482202253\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -2728,7 +2784,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=329.5681367,511.0131807,5.222153093,3.482202253"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_5",
+              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_5-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2741,7 +2797,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_03\" x=\"352.8503317\" y=\"359.1021074\" width=\"7.398050215\" height=\"6.746766866\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -2770,7 +2827,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=352.8503317,359.1021074,7.398050215,6.746766866"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_6",
+              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_6-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2783,7 +2840,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_02\" x=\"303.0224314\" y=\"463.1328997\" width=\"7.615639927\" height=\"7.83495507\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -2812,7 +2870,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=303.0224314,463.1328997,7.615639927,7.83495507"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_7",
+              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_7-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2825,7 +2883,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_01\" x=\"330.4396937\" y=\"483.8084756\" width=\"4.786973669\" height=\"5.005665739\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -2897,11 +2956,11 @@
       ],
       "annotations": [
         {
-          "id": "http://example.org/iiif/6",
+          "id": "https://data.crc.fr/iiif//page/p5/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_0",
+              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_0-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2914,7 +2973,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_06\" x=\"339.0472495\" y=\"655.6574157\" width=\"5.357687172\" height=\"5.626810678\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -2943,7 +3003,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=339.0472495,655.6574157,5.357687172,5.626810678"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_1",
+              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_1-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2956,7 +3016,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_05\" x=\"318.0655767\" y=\"664.2627853\" width=\"4.546148317\" height=\"4.5471497\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -2985,7 +3046,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=318.0655767,664.2627853,4.546148317,4.5471497"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_2",
+              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_2-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2998,7 +3059,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_04\" x=\"467.018416\" y=\"219.975735\" width=\"9.18756309\" height=\"5.456317186\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -3027,7 +3089,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=467.018416,219.975735,9.18756309,5.456317186"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_3",
+              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_3-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3040,7 +3102,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_03\" x=\"469.0281954\" y=\"419.5620742\" width=\"7.177783664\" height=\"4.307618831\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -3069,7 +3132,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=469.0281954,419.5620742,7.177783664,4.307618831"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_4",
+              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_4-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3082,7 +3145,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_02\" x=\"528.4962255\" y=\"497.9549222\" width=\"6.310101654\" height=\"5.658578661\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -3111,7 +3175,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=528.4962255,497.9549222,6.310101654,5.658578661"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_5",
+              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_5-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3124,7 +3188,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_01\" x=\"525.5891307\" y=\"314.7433493\" width=\"6.316449624\" height=\"6.030666364\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -3196,11 +3261,11 @@
       ],
       "annotations": [
         {
-          "id": "http://example.org/iiif/7",
+          "id": "https://data.crc.fr/iiif//page/p6/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00006-image/anno_0",
+              "id": "https://data.crc.fr/iiif/annotation/p00006-image/anno_0-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3213,7 +3278,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/115",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M239.5189391,921.5c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"P_04\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3285,11 +3351,11 @@
       ],
       "annotations": [
         {
-          "id": "http://example.org/iiif/8",
+          "id": "https://data.crc.fr/iiif//page/p7/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_0",
+              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_0-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3302,7 +3368,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/118",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4351\" height=\"6091\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FTIR_07\" x=\"83.87268018\" y=\"400.1491736\" width=\"17.04805619\" height=\"18.1885988\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -3331,7 +3398,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/118#xywh=83.87268018,400.1491736,17.04805619,18.1885988"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_1",
+              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_1-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3344,7 +3411,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/118",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4351\" height=\"6091\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FTIR_06\" x=\"201.5904702\" y=\"467.2196316\" width=\"24.72819053\" height=\"27.2828982\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -3373,7 +3441,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/118#xywh=201.5904702,467.2196316,24.72819053,27.2828982"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_2",
+              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_2-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3386,7 +3454,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/118",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4351\" height=\"6091\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_20\" x=\"205.8521946\" y=\"467.2932297\" width=\"8.036530758\" height=\"8.842131066\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -3415,7 +3484,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/118#xywh=205.8521946,467.2932297,8.036530758,8.842131066"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_3",
+              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_3-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3428,7 +3497,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/118",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4351\" height=\"6091\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M134.1569011,225.0c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_03\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3457,7 +3527,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/118#xywh=134.1569011,225.0,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_4",
+              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_4-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3470,7 +3540,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/118",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4351\" height=\"6091\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M264.1743189,206.4500538c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_02\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3499,7 +3570,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/118#xywh=264.1743189,206.4500538,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_5",
+              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_5-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3512,7 +3583,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/118",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4351\" height=\"6091\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M206.7179722,474.344071c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"XRF_01\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3584,11 +3656,11 @@
       ],
       "annotations": [
         {
-          "id": "http://example.org/iiif/9",
+          "id": "https://data.crc.fr/iiif//page/p8/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00008-image/anno_0",
+              "id": "https://data.crc.fr/iiif/annotation/p00008-image/anno_0-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3601,7 +3673,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/163",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4307\" height=\"6113\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M369.7532412,863.5c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" id=\"P_04\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3673,11 +3746,11 @@
       ],
       "annotations": [
         {
-          "id": "http://example.org/iiif/10",
+          "id": "https://data.crc.fr/iiif//page/p9/2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00009-image/anno_0",
+              "id": "https://data.crc.fr/iiif/annotation/p00009-image/anno_0-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3690,7 +3763,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/260",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4197\" height=\"6060\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FTIR_11\" x=\"195.0752639\" y=\"129.7120339\" width=\"28.72184201\" height=\"24.15777813\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
@@ -3719,7 +3793,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/260#xywh=195.0752639,129.7120339,28.72184201,24.15777813"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00009-image/anno_1",
+              "id": "https://data.crc.fr/iiif/annotation/p00009-image/anno_1-svg",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3732,7 +3806,8 @@
                 "type": "SpecificResource",
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/260",
                 "selector": {
-                  "type": "SvgSelector"
+                  "type": "SvgSelector",
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4197\" height=\"6060\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><rect id=\"FORS_21\" x=\"202.6909039\" y=\"135.3706126\" width=\"8.921178201\" height=\"7.182042147\" stroke=\"color\" rx=\"20\" ry=\"20\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
                 }
               }
             },
