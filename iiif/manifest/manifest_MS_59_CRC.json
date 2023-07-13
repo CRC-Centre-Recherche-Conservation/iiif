@@ -183,7 +183,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_0/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_0/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -207,7 +207,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=2725.533016022908,4358.4066071332,593.5575734905624,348.98979203132"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_0/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_0/tags/2",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -238,7 +238,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_1/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_1/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -262,7 +262,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=1295.2475862045267,2634.055501795,82.84097434082304,75.25426980344"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_1/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_1/tags/2",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -293,7 +293,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_2/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_2/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -317,7 +317,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=2481.8233911942384,4240.7547456331995,174.49799487282579,179.7826201171"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_2/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_2/tags/2",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -348,7 +348,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_3/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_3/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -391,7 +391,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_4/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_4/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -434,7 +434,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_5/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_5/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -477,7 +477,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_6/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_6/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -508,7 +508,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_7/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_7/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -551,7 +551,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_8/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_8/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -594,7 +594,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_9/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_9/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -625,7 +625,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_10/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_10/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -649,7 +649,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=2551.035021210837,4265.871434750599,83.28313392624142,89.89131008892001"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_10/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_10/tags/2",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -680,7 +680,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_11/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_11/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -723,7 +723,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_12/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_12/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -766,7 +766,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_13/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_13/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -809,7 +809,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_14/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_14/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -852,7 +852,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_15/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_15/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -895,7 +895,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_16/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_16/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -938,7 +938,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_17/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_17/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -981,7 +981,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_18/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_18/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1024,7 +1024,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_19/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_19/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1067,7 +1067,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_20/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_20/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1110,7 +1110,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_21/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_21/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1153,7 +1153,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_22/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_22/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1196,7 +1196,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_23/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_23/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1220,7 +1220,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=2859.8865760990398,1071.4415467544,5,5"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_23/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_23/tags/2",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1298,7 +1298,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_0/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_0/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1322,7 +1322,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=756.0672933895747,3150.2030045402,139.54635437060358,148.26536840295998"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_0/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_0/tags/2",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1372,7 +1372,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_2/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_2/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1415,7 +1415,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_3/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_3/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1458,7 +1458,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_4/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_4/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1548,7 +1548,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_0/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_0/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1591,7 +1591,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_1/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_1/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1634,7 +1634,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_2/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_2/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1677,7 +1677,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_3/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_3/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1720,7 +1720,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_4/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_4/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1810,7 +1810,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_0/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_0/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1853,7 +1853,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_1/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_1/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1896,7 +1896,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_2/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_2/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1939,7 +1939,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_3/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_3/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -1982,7 +1982,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_4/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_4/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2025,7 +2025,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_5/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_5/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2068,7 +2068,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_6/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_6/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2111,7 +2111,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_7/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_7/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2154,7 +2154,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_8/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_8/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2197,7 +2197,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_9/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_9/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2240,7 +2240,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_10/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_10/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2283,7 +2283,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_11/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_11/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2326,7 +2326,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_12/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_12/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2369,7 +2369,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_13/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_13/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2412,7 +2412,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_14/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_14/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2455,7 +2455,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_15/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_15/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2498,7 +2498,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_16/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_16/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2588,7 +2588,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_0/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_0/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2631,7 +2631,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_1/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_1/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2674,7 +2674,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_2/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_2/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2717,7 +2717,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_3/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_3/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2760,7 +2760,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_4/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_4/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2803,7 +2803,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_5/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_5/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2846,7 +2846,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_6/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_6/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2889,7 +2889,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_7/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_7/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -2979,7 +2979,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_0/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_0/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3022,7 +3022,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_1/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_1/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3065,7 +3065,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_2/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_2/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3108,7 +3108,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_3/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_3/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3151,7 +3151,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_4/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_4/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3194,7 +3194,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_5/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_5/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3284,7 +3284,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00006-image/anno_0/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00006-image/anno_0/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3374,7 +3374,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_0/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_0/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3417,7 +3417,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_1/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_1/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3460,7 +3460,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_2/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_2/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3503,7 +3503,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_3/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_3/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3546,7 +3546,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_4/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_4/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3589,7 +3589,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_5/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_5/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3679,7 +3679,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00008-image/anno_0/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00008-image/anno_0/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3769,7 +3769,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00009-image/anno_0/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00009-image/anno_0/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3812,7 +3812,7 @@
               }
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00009-image/anno_1/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00009-image/anno_1/tags/0",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3836,7 +3836,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/260#xywh=1229.32619027211,820.3459123559999,54.10720362658526,43.523175410819995"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00009-image/anno_1/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00009-image/anno_1/tags/2",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
@@ -3848,7 +3848,7 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/260#xywh=1229.32619027211,820.3459123559999,54.10720362658526,43.523175410819995"
             },
             {
-              "id": "https://data.crc.fr/iiif/annotation/p00009-image/anno_1/tags/1",
+              "id": "https://data.crc.fr/iiif/annotation/p00009-image/anno_1/tags/3",
               "type": "Annotation",
               "motivation": "tagging",
               "body": {
