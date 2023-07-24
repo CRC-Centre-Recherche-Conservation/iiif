@@ -166,7 +166,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_0-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "sXRF",
@@ -185,7 +185,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_1-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "mVis",
@@ -204,7 +204,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_2-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "mVis",
@@ -223,7 +223,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_3-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "mVis",
@@ -242,7 +242,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_4-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "mVis",
@@ -261,7 +261,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_5-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FTIR",
@@ -280,7 +280,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_6-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FTIR",
@@ -299,7 +299,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_7-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FTIR",
@@ -318,7 +318,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_8-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -337,7 +337,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_9-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -356,7 +356,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_10-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -375,7 +375,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_11-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -394,7 +394,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_12-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -413,7 +413,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_13-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -432,7 +432,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_14-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -451,7 +451,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_15-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -470,7 +470,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_16-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -489,7 +489,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_17-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -508,7 +508,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_18-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -527,7 +527,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_19-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -546,7 +546,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_20-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -565,7 +565,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_21-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "P",
@@ -584,7 +584,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_22-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "P",
@@ -603,7 +603,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00000-image/anno_23-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "P",
@@ -669,7 +669,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_0-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "mVis",
@@ -688,7 +688,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_1-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "mVis",
@@ -707,7 +707,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_2-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -726,7 +726,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_3-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -745,7 +745,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00001-image/anno_4-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "P",
@@ -811,7 +811,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_0-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -830,7 +830,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_1-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -849,7 +849,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_2-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -868,7 +868,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_3-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -887,7 +887,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00002-image/anno_4-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -953,7 +953,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_0-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FTIR",
@@ -972,7 +972,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_1-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FTIR",
@@ -991,7 +991,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_2-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FTIR",
@@ -1010,7 +1010,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_3-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FTIR",
@@ -1029,7 +1029,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_4-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1048,7 +1048,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_5-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1067,7 +1067,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_6-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1086,7 +1086,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_7-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -1105,7 +1105,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_8-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -1124,7 +1124,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_9-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -1143,7 +1143,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_10-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -1162,7 +1162,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_11-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -1181,7 +1181,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_12-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -1200,7 +1200,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_13-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -1219,7 +1219,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_14-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -1238,7 +1238,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_15-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "P",
@@ -1257,7 +1257,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00003-image/anno_16-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "P",
@@ -1323,7 +1323,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_0-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FTIR",
@@ -1342,7 +1342,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_1-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1361,7 +1361,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_2-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1380,7 +1380,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_3-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1399,7 +1399,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_4-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1418,7 +1418,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_5-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1437,7 +1437,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_6-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1456,7 +1456,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00004-image/anno_7-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1522,7 +1522,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_0-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1541,7 +1541,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_1-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1560,7 +1560,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_2-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1579,7 +1579,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_3-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1598,7 +1598,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_4-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1617,7 +1617,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00005-image/anno_5-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1683,7 +1683,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00006-image/anno_0-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "nan",
@@ -1749,7 +1749,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_0-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FTIR",
@@ -1768,7 +1768,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_1-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FTIR",
@@ -1787,7 +1787,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_2-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1806,7 +1806,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_3-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -1825,7 +1825,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_4-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -1844,7 +1844,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00007-image/anno_5-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "XRF",
@@ -1910,7 +1910,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00008-image/anno_0-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "P",
@@ -1976,7 +1976,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00009-image/anno_0-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "FORS",
@@ -1995,7 +1995,7 @@
             {
               "id": "https://data.crc.fr/iiif/annotation/p00009-image/anno_1-svg",
               "type": "Annotation",
-              "motivation": "tagging",
+              "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
                 "value": "P",
