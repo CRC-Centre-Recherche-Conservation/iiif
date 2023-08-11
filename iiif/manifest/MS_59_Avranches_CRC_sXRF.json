@@ -1,0 +1,4305 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://192.168.122.28:8183/iiif/iiif/manifest/MS_59_Avranches_CRC_sXRF.json",
+  "type": "Manifest",
+  "label": {
+    "fr": [
+      "MS 59 Avranches - analyses physico-chimique @CRC"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "fr": [
+          "Institutions"
+        ]
+      },
+      "value": {
+        "fr": [
+          "Centre de la Recherche sur la Conservations, Museum nationale d'Histoire Naturelle, Centre de la Recherche sur la Conservation"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Sources des données 0"
+        ]
+      },
+      "value": {
+        "fr": [
+          "https://doi.org/10.48579/PRO/CM1FLM"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Techniques utilisées"
+        ]
+      },
+      "value": {
+        "fr": [
+          "XRF, Hyperspecral"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Responsable Scientifique 0"
+        ]
+      },
+      "value": {
+        "fr": [
+          "MICHELIN Anne"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Responsable Scientifique"
+        ]
+      },
+      "value": {
+        "fr": [
+          "n.c., Ingénieur de recherche"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Institutions"
+        ]
+      },
+      "value": {
+        "fr": [
+          "Centre de la Recherche sur la Conservations, Museum nationale d'Histoire Naturelle, Centre de la Recherche sur la Conservation"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Sources des données 0"
+        ]
+      },
+      "value": {
+        "fr": [
+          "https://doi.org/10.48579/PRO/CM1FLM"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Techniques utilisées"
+        ]
+      },
+      "value": {
+        "fr": [
+          "XRF, Hyperspecral"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Responsable Scientifique 0"
+        ]
+      },
+      "value": {
+        "fr": [
+          "MICHELIN Anne"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Responsable Scientifique"
+        ]
+      },
+      "value": {
+        "fr": [
+          "n.c., Ingénieur de recherche"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "fr": [
+      "test bidule"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "fr": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "fr": [
+        "<span>Centre de la Recherche sur la Conservation. <a href=\\\"https://spdx.org/licenses/etalab-2.0.html\\\">OPEN LICENCE 2.0</a> <a href=\\\"https://spdx.org/licenses/etalab-2.0.html\\\" title\\\"Etalab 2.0\\\"><img src=\\\"https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif\\\"/></a></span>"
+      ]
+    }
+  },
+  "viewingDirection": "left-to-right",
+  "rights": "https://spdx.org/licenses/etalab-2.0.html",
+  "seeAlso": [
+    {
+      "id": "https://emmsm.unicaen.fr/manifests/Avranches_BM_59.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Avranches BM, 59"
+        ]
+      },
+      "format": "application/ld+json"
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "10"
+        ]
+      },
+      "height": 6074,
+      "width": 4429,
+      "items": [
+        {
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p0/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif/full/max/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6074,
+                "width": 4429,
+                "service": [
+                  {
+                    "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Pb.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 311,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Pb.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Ni.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 311,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Ni.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Mn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 311,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Mn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Cu.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 311,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Cu.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Zn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 311,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Zn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_K.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 311,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_K.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Ca.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 311,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Ca.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_S.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 311,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_S.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Video_1.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 311,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Video_1.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Ti.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 311,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Ti.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Cl.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 311,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Cl.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Hg.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 311,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Hg.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_As.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 311,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_As.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Br.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 311,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Br.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Si.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 311,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Si.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Fe.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 311,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Fe.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "10"
+        ]
+      },
+      "height": 6074,
+      "width": 4429,
+      "items": [
+        {
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif/full/max/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6074,
+                "width": 4429,
+                "service": [
+                  {
+                    "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom-deconv_Ti-lim200.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 1275,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom-deconv_Ti-lim200.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#701.4532968712157,6978.209036306338,1179.619786704392,1617.9759126859155"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Ni.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Ni.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Ti.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Ti.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Cu.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Cu.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Ti.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Ti.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_As.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_As.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Pb.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Pb.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Pb.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Pb.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_As.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_As.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Ca.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Ca.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Si.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Si.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Fe.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Fe.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Br.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Br.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Video_1.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Video_1.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Hg.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Hg.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Zn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Zn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Si.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Si.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Mn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Mn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map_data-Ms59-f1v-zoom_Br-lim255.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 1275,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map_data-Ms59-f1v-zoom_Br-lim255.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#701.4532968712157,6978.209036306338,1179.619786704392,1617.9759126859155"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Cu.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Cu.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Ni.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Ni.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Video_1.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Video_1.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Hg.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Hg.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Br.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Br.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom_Fe-lim255.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 1275,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom_Fe-lim255.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#701.4532968712157,6978.209036306338,1179.619786704392,1617.9759126859155"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Zn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Zn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_K.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_K.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom-deconv_S-lim255.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 1275,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom-deconv_S-lim255.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#701.4532968712157,6978.209036306338,1179.619786704392,1617.9759126859155"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom-deconv_As-lim255.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 1275,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom-deconv_As-lim255.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#701.4532968712157,6978.209036306338,1179.619786704392,1617.9759126859155"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Cl.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Cl.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Fe.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Fe.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_S.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_S.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom-deconv_Cu-lim100.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 1275,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom-deconv_Cu-lim100.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#701.4532968712157,6978.209036306338,1179.619786704392,1617.9759126859155"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom-deconv_Pb-lim100.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 1275,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom-deconv_Pb-lim100.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#701.4532968712157,6978.209036306338,1179.619786704392,1617.9759126859155"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_K.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_K.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Mn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Mn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Ca.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Ca.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_S.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_S.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Cl.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 204,
+                "width": 431,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Cl.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map_data-Ms59-f1v-zoom_S-lim255.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 1275,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map_data-Ms59-f1v-zoom_S-lim255.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#701.4532968712157,6978.209036306338,1179.619786704392,1617.9759126859155"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "10"
+        ]
+      },
+      "height": 6074,
+      "width": 4429,
+      "items": [
+        {
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif/full/max/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6074,
+                "width": 4429,
+                "service": [
+                  {
+                    "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_1&Map_data-Ms59-f1v-deconv-Cu-lim100.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 595,
+                "width": 777,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_1&Map_data-Ms59-f1v-deconv-Cu-lim100.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_1"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#1086.51108437722,3887.6558364668904,2962.1609537930503,4349.971665066891"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "11"
+        ]
+      },
+      "height": 6074,
+      "width": 4429,
+      "items": [
+        {
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p19/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0011.tif/full/max/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6074,
+                "width": 4429,
+                "service": [
+                  {
+                    "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0011.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Cl.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 411,
+                "width": 270,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Cl.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Pb.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 411,
+                "width": 270,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Pb.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Si.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 411,
+                "width": 270,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Si.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_sansHg-Cu.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 411,
+                "width": 270,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_sansHg-Cu.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_S.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 411,
+                "width": 270,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_S.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_K.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 411,
+                "width": 270,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_K.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Ni.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 411,
+                "width": 270,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Ni.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Ca.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 411,
+                "width": 270,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Ca.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Ti.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 411,
+                "width": 270,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Ti.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&Map_data-Ms59-f2-deconv-Cu-lim255.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1827,
+                "width": 1440,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&Map_data-Ms59-f2-deconv-Cu-lim255.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#92.43488678432638,1641.8399572074438,640.3240873588888,1023.4495784930486"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Mn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 411,
+                "width": 270,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Mn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Zn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 411,
+                "width": 270,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Zn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&Map_data-Ms59-f2-deconv-Pb-lim20.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1827,
+                "width": 1440,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&Map_data-Ms59-f2-deconv-Pb-lim20.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#92.43488678432638,1641.8399572074438,640.3240873588888,1023.4495784930486"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_As.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 411,
+                "width": 270,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_As.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&Map_data-Ms59-f2-deconv-K-lim255.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1827,
+                "width": 1440,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&Map_data-Ms59-f2-deconv-K-lim255.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#92.43488678432638,1641.8399572074438,640.3240873588888,1023.4495784930486"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Video_1.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 411,
+                "width": 270,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Video_1.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Cu.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 411,
+                "width": 270,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Cu.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Hg.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 411,
+                "width": 270,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Hg.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59_f2_map1_260mic_100ms_Video_Mosaic.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1976,
+                "width": 1220,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59_f2_map1_260mic_100ms_Video_Mosaic.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#109.10347292576229,1518.0372478836032,755.7923654072132,946.27650805"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Fe.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 411,
+                "width": 270,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Fe.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_4"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "34"
+        ]
+      },
+      "height": 6041,
+      "width": 4368,
+      "items": [
+        {
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p26/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0034.tif/full/max/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6041,
+                "width": 4368,
+                "service": [
+                  {
+                    "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0034.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Si.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Si.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Mn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Mn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Fe.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Fe.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Ni.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Ni.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_sansHg-Ni.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_sansHg-Ni.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_S.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_S.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Video_1.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Video_1.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Map_data-Ms59-f13v-deconv-K-lim255.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1355,
+                "width": 1378,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Map_data-Ms59-f13v-deconv-K-lim255.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#1431.333873464151,360.949537740214,583.5017096603774,948.9479780964575"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_sansHg-Cu.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1355,
+                "width": 1200,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_sansHg-Cu.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#1643.648398028,360.949537740214,670.05446326,948.9479780964575"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Cu.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Cu.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_K.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_K.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Hg.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Hg.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Zn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Zn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_As.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_As.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Pb.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Pb.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_sansHg-K.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_sansHg-K.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_sansHg-Zn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_sansHg-Zn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Cl.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Cl.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Ca.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Ca.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Ti.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 677,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Ti.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Map_data-Ms59-f13v-deconv-Pb-lim50.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1355,
+                "width": 1378,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Map_data-Ms59-f13v-deconv-Pb-lim50.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#1431.333873464151,360.949537740214,583.5017096603774,948.9479780964575"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "70"
+        ]
+      },
+      "height": 6092,
+      "width": 4310,
+      "items": [
+        {
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p30/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0070.tif/full/max/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6092,
+                "width": 4310,
+                "service": [
+                  {
+                    "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0070.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Mn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 330,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Mn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Hg.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 330,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Hg.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Cu.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 330,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Cu.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_sansHg-Zn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 330,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_sansHg-Zn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Zn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 330,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Zn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_As.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 330,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_As.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Si.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 330,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Si.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Ca.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 330,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Ca.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_K.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 330,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_K.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Fe.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 330,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Fe.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Map_data-Ms59-f31v-deconv-K-lim255.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 396,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Map_data-Ms59-f31v-deconv-K-lim255.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1744.3045384292932,3992.10726550996,2607.3507005934343,4563.8164543306775"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Ti.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 330,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Ti.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Pb.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 330,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Pb.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_S.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 330,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_S.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_sansHg-Cu.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 330,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_sansHg-Cu.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Ni.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 330,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Ni.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Video_1.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 330,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Video_1.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Cl.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 502,
+                "width": 330,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Cl.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "91"
+        ]
+      },
+      "height": 6085,
+      "width": 4457,
+      "items": [
+        {
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p40/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0091.tif/full/max/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6085,
+                "width": 4457,
+                "service": [
+                  {
+                    "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0091.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Mn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 269,
+                "width": 335,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Mn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_As.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 269,
+                "width": 335,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_As.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Map_data-Ms59-f42-deconv-K-lim255.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 964,
+                "width": 1327,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Map_data-Ms59-f42-deconv-K-lim255.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#846.5033244033157,2107.251500898859,867.3495964065561,1322.8002125057053"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Hg.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 269,
+                "width": 335,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Hg.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Video_1.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 269,
+                "width": 335,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Video_1.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Cl.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 269,
+                "width": 335,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Cl.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Pb.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 269,
+                "width": 335,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Pb.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_S.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 269,
+                "width": 335,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_S.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_K.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 269,
+                "width": 335,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_K.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Fe.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 269,
+                "width": 335,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Fe.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Zn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 269,
+                "width": 335,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Zn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Si.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 269,
+                "width": 335,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Si.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Ca.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 269,
+                "width": 335,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Ca.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Cu.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 269,
+                "width": 335,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Cu.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Ti.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 269,
+                "width": 335,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Ti.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_sansHg-Zn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 269,
+                "width": 335,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_sansHg-Zn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_sansHg-Cu.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 269,
+                "width": 335,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_sansHg-Cu.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Ni.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 269,
+                "width": 335,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Ni.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_7"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "114"
+        ]
+      },
+      "height": 6110,
+      "width": 4329,
+      "items": [
+        {
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p51/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0114.tif/full/max/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6110,
+                "width": 4329,
+                "service": [
+                  {
+                    "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0114.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Si.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1202,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Si.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_As.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1202,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_As.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_K.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1202,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_K.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_S.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1202,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_S.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Ca.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1202,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Ca.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Video_1.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1202,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Video_1.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Map_data-Ms59-f53v-deconv-K-lim255.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 2405,
+                "width": 1529,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Map_data-Ms59-f53v-deconv-K-lim255.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#1184.897770647351,359.05946481081077,510.42087100948334,953.3647856054054"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Fe.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1202,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Fe.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Ni.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1202,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Ni.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Mn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1202,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Mn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_sansHg-Zn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1202,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_sansHg-Zn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_sansHg-Cu.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1202,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_sansHg-Cu.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Ti.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1202,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Ti.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Hg.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1202,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Hg.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Pb.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1202,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Pb.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Map_data-Ms59-f53v-deconv-Cu-lim255.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 2405,
+                "width": 1541,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Map_data-Ms59-f53v-deconv-Cu-lim255.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#1175.670792550162,359.05946481081077,506.4461465110318,953.3647856054054"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Cu.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1202,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Cu.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Cl.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1202,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Cl.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Zn.tif/full/max/0/default.tif",
+                "type": "dctypes:Image",
+                "height": 1202,
+                "width": 600,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Zn.tif",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: sXRF, sXRF_8"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2708 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://192.168.122.28:8183/iiif/iiif/manifest/MS_59_Avranches_CRC_HS_VNIR.json",
+  "type": "Manifest",
+  "label": {
+    "fr": [
+      "MS 59 Avranches - analyses physico-chimique @CRC"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "fr": [
+          "Institutions"
+        ]
+      },
+      "value": {
+        "fr": [
+          "Centre de la Recherche sur la Conservations, Museum nationale d'Histoire Naturelle, Centre de la Recherche sur la Conservation"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Sources des données 0"
+        ]
+      },
+      "value": {
+        "fr": [
+          "https://doi.org/10.48579/PRO/CM1FLM"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Techniques utilisées"
+        ]
+      },
+      "value": {
+        "fr": [
+          "XRF, Hyperspecral"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Responsable Scientifique 0"
+        ]
+      },
+      "value": {
+        "fr": [
+          "MICHELIN Anne"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Responsable Scientifique"
+        ]
+      },
+      "value": {
+        "fr": [
+          "n.c., Ingénieur de recherche"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Institutions"
+        ]
+      },
+      "value": {
+        "fr": [
+          "Centre de la Recherche sur la Conservations, Museum nationale d'Histoire Naturelle, Centre de la Recherche sur la Conservation"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Sources des données 0"
+        ]
+      },
+      "value": {
+        "fr": [
+          "https://doi.org/10.48579/PRO/CM1FLM"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Techniques utilisées"
+        ]
+      },
+      "value": {
+        "fr": [
+          "XRF, Hyperspecral"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Responsable Scientifique 0"
+        ]
+      },
+      "value": {
+        "fr": [
+          "MICHELIN Anne"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Responsable Scientifique"
+        ]
+      },
+      "value": {
+        "fr": [
+          "n.c., Ingénieur de recherche"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Institutions"
+        ]
+      },
+      "value": {
+        "fr": [
+          "Centre de la Recherche sur la Conservations, Museum nationale d'Histoire Naturelle, Centre de la Recherche sur la Conservation"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Sources des données 0"
+        ]
+      },
+      "value": {
+        "fr": [
+          "https://doi.org/10.48579/PRO/CM1FLM"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Techniques utilisées"
+        ]
+      },
+      "value": {
+        "fr": [
+          "XRF, Hyperspecral"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Responsable Scientifique 0"
+        ]
+      },
+      "value": {
+        "fr": [
+          "MICHELIN Anne"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Responsable Scientifique"
+        ]
+      },
+      "value": {
+        "fr": [
+          "n.c., Ingénieur de recherche"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Institutions"
+        ]
+      },
+      "value": {
+        "fr": [
+          "Centre de la Recherche sur la Conservations, Museum nationale d'Histoire Naturelle, Centre de la Recherche sur la Conservation"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Sources des données 0"
+        ]
+      },
+      "value": {
+        "fr": [
+          "https://doi.org/10.48579/PRO/CM1FLM"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Techniques utilisées"
+        ]
+      },
+      "value": {
+        "fr": [
+          "XRF, Hyperspecral"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Responsable Scientifique 0"
+        ]
+      },
+      "value": {
+        "fr": [
+          "MICHELIN Anne"
+        ]
+      }
+    },
+    {
+      "label": {
+        "fr": [
+          "Responsable Scientifique"
+        ]
+      },
+      "value": {
+        "fr": [
+          "n.c., Ingénieur de recherche"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "fr": [
+      "test bidule"
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "fr": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "fr": [
+        "<span>Centre de la Recherche sur la Conservation. <a href=\\\"https://spdx.org/licenses/etalab-2.0.html\\\">OPEN LICENCE 2.0</a> <a href=\\\"https://spdx.org/licenses/etalab-2.0.html\\\" title\\\"Etalab 2.0\\\"><img src=\\\"https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif\\\"/></a></span>"
+      ]
+    }
+  },
+  "viewingDirection": "left-to-right",
+  "rights": "https://spdx.org/licenses/etalab-2.0.html",
+  "seeAlso": [
+    {
+      "id": "https://emmsm.unicaen.fr/manifests/Avranches_BM_59.json",
+      "type": "Manifest",
+      "label": {
+        "fr": [
+          "Avranches BM, 59"
+        ]
+      },
+      "format": "application/ld+json"
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "10"
+        ]
+      },
+      "height": 6074,
+      "width": 4429,
+      "items": [
+        {
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_HS_VNIR&page/p8/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif/full/max/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6074,
+                "width": 4429,
+                "service": [
+                  {
+                    "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_mtmf_rule_jaune.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1821,
+                "width": 1324,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_mtmf_rule_jaune.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_1"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#635.8992350006798,262.181391777408,1747.6713022065712,2447.0263230112027"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_sam_rule_encre.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1821,
+                "width": 1324,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_sam_rule_encre.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_1"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#635.8992350006798,262.181391777408,1747.6713022065712,2447.0263230112027"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_unmix_rule_violet.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1821,
+                "width": 1324,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_unmix_rule_violet.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_1"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#635.8992350006798,262.181391777408,1747.6713022065712,2447.0263230112027"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_sam_rule_violet.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1821,
+                "width": 1324,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_sam_rule_violet.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_1"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#635.8992350006798,262.181391777408,1747.6713022065712,2447.0263230112027"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_mtmf_rule_violet.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1821,
+                "width": 1324,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_mtmf_rule_violet.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_1"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#635.8992350006798,262.181391777408,1747.6713022065712,2447.0263230112027"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_mtmf_rule_bleu.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1821,
+                "width": 1324,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_mtmf_rule_bleu.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_1"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#635.8992350006798,262.181391777408,1747.6713022065712,2447.0263230112027"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_unmix_rule_jaune.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1821,
+                "width": 1324,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_unmix_rule_jaune.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_1"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#635.8992350006798,262.181391777408,1747.6713022065712,2447.0263230112027"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_unmix_rule_encre.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1821,
+                "width": 1324,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_unmix_rule_encre.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_1"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#635.8992350006798,262.181391777408,1747.6713022065712,2447.0263230112027"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_unmix_rule_bleu.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1821,
+                "width": 1324,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_unmix_rule_bleu.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_1"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#635.8992350006798,262.181391777408,1747.6713022065712,2447.0263230112027"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_sam_rule_jaune.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1821,
+                "width": 1324,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_sam_rule_jaune.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_1"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#635.8992350006798,262.181391777408,1747.6713022065712,2447.0263230112027"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_mtmf_rule_encre.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1821,
+                "width": 1324,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_mtmf_rule_encre.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_1"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#635.8992350006798,262.181391777408,1747.6713022065712,2447.0263230112027"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_mtmf_rule_parchemin.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1821,
+                "width": 1324,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_mtmf_rule_parchemin.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_1"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#635.8992350006798,262.181391777408,1747.6713022065712,2447.0263230112027"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_sam_rule_parchemin.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1821,
+                "width": 1324,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_sam_rule_parchemin.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_1"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#635.8992350006798,262.181391777408,1747.6713022065712,2447.0263230112027"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_unmix_rule_parchemin.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1821,
+                "width": 1324,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_unmix_rule_parchemin.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_1"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#635.8992350006798,262.181391777408,1747.6713022065712,2447.0263230112027"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_mnf4.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1821,
+                "width": 1324,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_mnf4.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_1"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#635.8992350006798,262.181391777408,1747.6713022065712,2447.0263230112027"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_1-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_sam_rule_bleu.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1821,
+                "width": 1324,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_1&Ms59-f1v-obj23-frame100-1_refl_sam_rule_bleu.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_1"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#635.8992350006798,262.181391777408,1747.6713022065712,2447.0263230112027"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "11"
+        ]
+      },
+      "height": 6074,
+      "width": 4429,
+      "items": [
+        {
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_HS_VNIR&page/p22/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0011.tif/full/max/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6074,
+                "width": 4429,
+                "service": [
+                  {
+                    "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0011.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_unmix_rule_parchemin.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_unmix_rule_parchemin.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_sam_rule_jaune.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_sam_rule_jaune.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_unmix_rule_encre.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_unmix_rule_encre.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_unmix_rule_bleu.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_unmix_rule_bleu.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_unmix_rule_orange.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_unmix_rule_orange.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_mtmf_rule_parchemin.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_mtmf_rule_parchemin.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_sam_rule_rouge.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_sam_rule_rouge.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_mtmf_rule_rouge.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_mtmf_rule_rouge.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_derivate5-1-2-grey-band237-contraste.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 789,
+                "width": 566,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_derivate5-1-2-grey-band237-contraste.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#194.29846552083038,3815.791037230418,1760.737401734629,2361.103608237262"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_sam_rule_bleu.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_sam_rule_bleu.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_mtmf_rule_orange.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_mtmf_rule_orange.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_sam_rule_parchemin.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_sam_rule_parchemin.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_sam_rule_orange.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_sam_rule_orange.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_unmix_rule_rouge.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_unmix_rule_rouge.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_sam_rule_encre.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_sam_rule_encre.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_mtmf_rule_encre.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_mtmf_rule_encre.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_unmix_rule_jaune.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_unmix_rule_jaune.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_derivate5-1-2-grey-band237.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 789,
+                "width": 566,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_derivate5-1-2-grey-band237.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#194.29846552083038,3815.791037230418,1760.737401734629,2361.103608237262"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_mtmf_rule_bleu.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_mtmf_rule_bleu.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_2-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_mtmf_rule_jaune.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 824,
+                "width": 531,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_2&Ms59-f2-obj23-frame100-1_refl_mtmf_rule_jaune.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_2"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#207.10533236306966,3653.7125344354367,1876.7935393254238,2260.814013227184"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "34"
+        ]
+      },
+      "height": 6041,
+      "width": 4368,
+      "items": [
+        {
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_HS_VNIR&page/p27/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0034.tif/full/max/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6041,
+                "width": 4368,
+                "service": [
+                  {
+                    "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0034.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_unmix_rule_bleu.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 637,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_unmix_rule_bleu.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3027.312026742857,739.8061657277289,1801.9984937142856,2379.8189489103875"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_mtmf_rule_jaune.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 637,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_mtmf_rule_jaune.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3027.312026742857,739.8061657277289,1801.9984937142856,2379.8189489103875"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_unmix_rule_parchemin.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 637,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_unmix_rule_parchemin.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3027.312026742857,739.8061657277289,1801.9984937142856,2379.8189489103875"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_derivate5-1-2-RGB.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 668,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_derivate5-1-2-RGB.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#2886.8229955616766,739.8061657277289,1718.3728151137723,2379.8189489103875"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_sam_rule_rouge.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 637,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_sam_rule_rouge.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3027.312026742857,739.8061657277289,1801.9984937142856,2379.8189489103875"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_unmix_rule_encre.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 637,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_unmix_rule_encre.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3027.312026742857,739.8061657277289,1801.9984937142856,2379.8189489103875"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_unmix_rule_rouge.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 637,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_unmix_rule_rouge.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3027.312026742857,739.8061657277289,1801.9984937142856,2379.8189489103875"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_sam_rule_jaune.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 637,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_sam_rule_jaune.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3027.312026742857,739.8061657277289,1801.9984937142856,2379.8189489103875"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_sam_rule_encre.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 637,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_sam_rule_encre.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3027.312026742857,739.8061657277289,1801.9984937142856,2379.8189489103875"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_derivate5-1-2-grey-band242.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 668,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_derivate5-1-2-grey-band242.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#2886.8229955616766,739.8061657277289,1718.3728151137723,2379.8189489103875"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_sam_rule_parchemin.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 637,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_sam_rule_parchemin.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3027.312026742857,739.8061657277289,1801.9984937142856,2379.8189489103875"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_mtmf_rule_bleu.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 637,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_mtmf_rule_bleu.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3027.312026742857,739.8061657277289,1801.9984937142856,2379.8189489103875"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_mtmf_rule_parchemin.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 637,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_mtmf_rule_parchemin.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3027.312026742857,739.8061657277289,1801.9984937142856,2379.8189489103875"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_unmix_rule_jaune.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 637,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_unmix_rule_jaune.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3027.312026742857,739.8061657277289,1801.9984937142856,2379.8189489103875"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_mtmf_rule_rouge.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 637,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_mtmf_rule_rouge.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3027.312026742857,739.8061657277289,1801.9984937142856,2379.8189489103875"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_mtmf_rule_encre.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 637,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_mtmf_rule_encre.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3027.312026742857,739.8061657277289,1801.9984937142856,2379.8189489103875"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_3-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_sam_rule_bleu.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 568,
+                "width": 637,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_3&Ms59-f13v-obj23-frame100-1_refl_sam_rule_bleu.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_3"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3027.312026742857,739.8061657277289,1801.9984937142856,2379.8189489103875"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "91"
+        ]
+      },
+      "height": 6085,
+      "width": 4457,
+      "items": [
+        {
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_HS_VNIR&page/p41/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0091.tif/full/max/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6085,
+                "width": 4457,
+                "service": [
+                  {
+                    "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0091.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_sam_rule_jaune.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 576,
+                "width": 668,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_sam_rule_jaune.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1690.8796079717067,3518.138699674479,1772.1681440946106,2231.0147857005204"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_mtmf_rule_parchemin.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 576,
+                "width": 668,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_mtmf_rule_parchemin.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1690.8796079717067,3518.138699674479,1772.1681440946106,2231.0147857005204"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_unmix_rule_parchemin.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 576,
+                "width": 668,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_unmix_rule_parchemin.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1690.8796079717067,3518.138699674479,1772.1681440946106,2231.0147857005204"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_sam_rule_encre.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 576,
+                "width": 668,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_sam_rule_encre.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1690.8796079717067,3518.138699674479,1772.1681440946106,2231.0147857005204"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_sam_rule_rouge.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 576,
+                "width": 668,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_sam_rule_rouge.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1690.8796079717067,3518.138699674479,1772.1681440946106,2231.0147857005204"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_unmix_rule_rouge.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 576,
+                "width": 668,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_unmix_rule_rouge.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1690.8796079717067,3518.138699674479,1772.1681440946106,2231.0147857005204"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_sam_rule_parchemin.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 576,
+                "width": 668,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_sam_rule_parchemin.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1690.8796079717067,3518.138699674479,1772.1681440946106,2231.0147857005204"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_derivate5-1-2-RGB.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 550,
+                "width": 648,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_derivate5-1-2-RGB.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1743.0672501930555,3684.4507109318183,1826.8646917518518,2336.4809392063635"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_derivate5-1-2-grey-band242-contraste.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 550,
+                "width": 648,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_derivate5-1-2-grey-band242-contraste.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1743.0672501930555,3684.4507109318183,1826.8646917518518,2336.4809392063635"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_unmix_rule_jaune.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 576,
+                "width": 668,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_unmix_rule_jaune.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1690.8796079717067,3518.138699674479,1772.1681440946106,2231.0147857005204"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_derivate5-1-2-grey-band242.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 550,
+                "width": 648,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_derivate5-1-2-grey-band242.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1743.0672501930555,3684.4507109318183,1826.8646917518518,2336.4809392063635"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_mtmf_rule_bleu.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 576,
+                "width": 668,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_mtmf_rule_bleu.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1690.8796079717067,3518.138699674479,1772.1681440946106,2231.0147857005204"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_mtmf_rule_jaune.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 576,
+                "width": 668,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_mtmf_rule_jaune.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1690.8796079717067,3518.138699674479,1772.1681440946106,2231.0147857005204"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_mtmf_rule_rouge.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 576,
+                "width": 668,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_mtmf_rule_rouge.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1690.8796079717067,3518.138699674479,1772.1681440946106,2231.0147857005204"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_unmix_rule_encre.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 576,
+                "width": 668,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_unmix_rule_encre.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1690.8796079717067,3518.138699674479,1772.1681440946106,2231.0147857005204"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_unmix_rule_bleu.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 576,
+                "width": 668,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_unmix_rule_bleu.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1690.8796079717067,3518.138699674479,1772.1681440946106,2231.0147857005204"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_mtmf_rule_encre.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 576,
+                "width": 668,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_mtmf_rule_encre.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1690.8796079717067,3518.138699674479,1772.1681440946106,2231.0147857005204"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_5-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_sam_rule_bleu.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 576,
+                "width": 668,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_5&Ms59-f42-obj23-frame100-1_refl_sam_rule_bleu.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_5"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#1690.8796079717067,3518.138699674479,1772.1681440946106,2231.0147857005204"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114",
+      "type": "Canvas",
+      "label": {
+        "fr": [
+          "114"
+        ]
+      },
+      "height": 6110,
+      "width": 4329,
+      "items": [
+        {
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_HS_VNIR&page/p52/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0114.tif/full/max/0/default.jpg",
+                "type": "dctypes:Image",
+                "height": 6110,
+                "width": 4329,
+                "service": [
+                  {
+                    "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0114.tif",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "format": "image/jpeg"
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_derivate5-1-2-RGB.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1044,
+                "width": 598,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_derivate5-1-2-RGB.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3000.219665517391,746.3308008448276,1674.3695095173912,2315.051592787356"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_unmix_rule_encre.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1064,
+                "width": 585,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_unmix_rule_encre.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3066.89121364,732.3020263928571,1711.57772084,2271.5355854041354"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_unmix_rule_jaune.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1064,
+                "width": 585,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_unmix_rule_jaune.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3066.89121364,732.3020263928571,1711.57772084,2271.5355854041354"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_mtmf_rule_orange_clair.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1064,
+                "width": 585,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_mtmf_rule_orange_clair.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3066.89121364,732.3020263928571,1711.57772084,2271.5355854041354"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_sam_rule_jaune.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1064,
+                "width": 585,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_sam_rule_jaune.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3066.89121364,732.3020263928571,1711.57772084,2271.5355854041354"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_derivate5-1-2-grey-band237-contraste.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1044,
+                "width": 598,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_derivate5-1-2-grey-band237-contraste.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3000.219665517391,746.3308008448276,1674.3695095173912,2315.051592787356"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_mtmf_rule_parchemin.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1064,
+                "width": 585,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_mtmf_rule_parchemin.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3066.89121364,732.3020263928571,1711.57772084,2271.5355854041354"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_unmix_rule_orange_clair.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1064,
+                "width": 585,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_unmix_rule_orange_clair.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3066.89121364,732.3020263928571,1711.57772084,2271.5355854041354"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_mtmf_rule_encre.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1064,
+                "width": 585,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_mtmf_rule_encre.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3066.89121364,732.3020263928571,1711.57772084,2271.5355854041354"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_sam_rule_parchemin.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1064,
+                "width": 585,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_sam_rule_parchemin.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3066.89121364,732.3020263928571,1711.57772084,2271.5355854041354"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_mtmf_rule_jaune.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1064,
+                "width": 585,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_mtmf_rule_jaune.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3066.89121364,732.3020263928571,1711.57772084,2271.5355854041354"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_unmix_rule_orange_fonce.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1064,
+                "width": 585,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_unmix_rule_orange_fonce.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3066.89121364,732.3020263928571,1711.57772084,2271.5355854041354"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_derivate5-1-2-grey-band237.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1044,
+                "width": 598,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_derivate5-1-2-grey-band237.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3000.219665517391,746.3308008448276,1674.3695095173912,2315.051592787356"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_sam_rule_encre.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1064,
+                "width": 585,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_sam_rule_encre.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3066.89121364,732.3020263928571,1711.57772084,2271.5355854041354"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_sam_rule_orange_clair.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1064,
+                "width": 585,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_sam_rule_orange_clair.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3066.89121364,732.3020263928571,1711.57772084,2271.5355854041354"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_sam_rule_orange_fonce.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1064,
+                "width": 585,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_sam_rule_orange_fonce.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3066.89121364,732.3020263928571,1711.57772084,2271.5355854041354"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_unmix_rule_parchemin.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1064,
+                "width": 585,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_unmix_rule_parchemin.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3066.89121364,732.3020263928571,1711.57772084,2271.5355854041354"
+            },
+            {
+              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_6-main-images",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_mtmf_rule_orange_fonce.png/full/max/0/default.png",
+                "type": "dctypes:Image",
+                "height": 1064,
+                "width": 585,
+                "service": [
+                  {
+                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_6&Ms59-f53v-obj23-frame100-1_refl_mtmf_rule_orange_fonce.png",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ],
+                "format": "image/jpeg",
+                "label": {
+                  "fr": [
+                    "test: HS_VNIR, HS_VNIR_6"
+                  ]
+                }
+              },
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3066.89121364,732.3020263928571,1711.57772084,2271.5355854041354"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
