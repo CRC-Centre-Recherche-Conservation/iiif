@@ -215,7 +215,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_3"
@@ -240,7 +240,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_3"
@@ -265,7 +265,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_3"
@@ -290,7 +290,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_3"
@@ -315,7 +315,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_3"
@@ -340,7 +340,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_3"
@@ -365,7 +365,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_3"
@@ -390,7 +390,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_3"
@@ -415,7 +415,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_3"
@@ -440,7 +440,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_3"
@@ -465,7 +465,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_3"
@@ -490,7 +490,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_3"
@@ -515,7 +515,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_3"
@@ -540,7 +540,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_3"
@@ -565,7 +565,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_3"
@@ -590,7 +590,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_3"
@@ -600,44 +600,11 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
-      "type": "Canvas",
-      "label": {
-        "fr": [
-          "10"
-        ]
-      },
-      "height": 6074,
-      "width": 4429,
-      "items": [
+        },
         {
           "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p1/1",
           "type": "AnnotationPage",
           "items": [
-            {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif/full/max/0/default.jpg",
-                "type": "dctypes:Image",
-                "height": 6074,
-                "width": 4429,
-                "service": [
-                  {
-                    "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif",
-                    "type": "ImageService3",
-                    "profile": "level1"
-                  }
-                ],
-                "format": "image/jpeg"
-              },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10"
-            },
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
@@ -654,7 +621,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -679,7 +646,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -704,7 +671,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -729,7 +696,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -754,7 +721,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -779,7 +746,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -804,7 +771,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -829,7 +796,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -854,7 +821,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -879,7 +846,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -904,7 +871,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -929,7 +896,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -954,7 +921,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -979,7 +946,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1004,7 +971,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1029,7 +996,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1054,7 +1021,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1079,7 +1046,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1104,7 +1071,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1129,7 +1096,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1154,7 +1121,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1179,7 +1146,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1204,7 +1171,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1229,7 +1196,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1254,7 +1221,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1279,7 +1246,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1304,7 +1271,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1329,7 +1296,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1354,7 +1321,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1379,7 +1346,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1404,7 +1371,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1429,7 +1396,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1454,7 +1421,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1479,7 +1446,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1504,7 +1471,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1529,7 +1496,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1554,7 +1521,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1579,7 +1546,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1604,7 +1571,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1629,7 +1596,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_2"
@@ -1639,44 +1606,11 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#701.4532968712157,6978.209036306338,1179.619786704392,1617.9759126859155"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
-      "type": "Canvas",
-      "label": {
-        "fr": [
-          "10"
-        ]
-      },
-      "height": 6074,
-      "width": 4429,
-      "items": [
+        },
         {
           "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p2/1",
           "type": "AnnotationPage",
           "items": [
-            {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_1-main-images",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif/full/max/0/default.jpg",
-                "type": "dctypes:Image",
-                "height": 6074,
-                "width": 4429,
-                "service": [
-                  {
-                    "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0010.tif",
-                    "type": "ImageService3",
-                    "profile": "level1"
-                  }
-                ],
-                "format": "image/jpeg"
-              },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10"
-            },
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_1-main-images",
               "type": "Annotation",
@@ -1693,7 +1627,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_1"
@@ -1757,7 +1691,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -1782,7 +1716,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -1807,7 +1741,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -1832,7 +1766,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -1857,7 +1791,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -1882,7 +1816,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -1907,7 +1841,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -1932,7 +1866,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -1957,7 +1891,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -1982,7 +1916,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -2007,7 +1941,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -2032,7 +1966,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -2057,7 +1991,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -2082,7 +2016,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -2107,7 +2041,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -2132,7 +2066,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -2157,7 +2091,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -2182,7 +2116,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -2207,7 +2141,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -2232,7 +2166,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_4"
@@ -2296,7 +2230,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2321,7 +2255,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2346,7 +2280,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2371,7 +2305,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2396,7 +2330,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2421,7 +2355,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2446,7 +2380,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2471,7 +2405,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2496,7 +2430,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2521,7 +2455,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2546,7 +2480,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2571,7 +2505,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2596,7 +2530,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2621,7 +2555,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2646,7 +2580,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2671,7 +2605,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2696,7 +2630,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2721,7 +2655,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2746,7 +2680,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2771,7 +2705,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2796,7 +2730,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_5"
@@ -2860,7 +2794,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -2885,7 +2819,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -2910,7 +2844,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -2935,7 +2869,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -2960,7 +2894,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -2985,7 +2919,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -3010,7 +2944,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -3035,7 +2969,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -3060,7 +2994,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -3085,7 +3019,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -3110,7 +3044,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -3135,7 +3069,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -3160,7 +3094,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -3185,7 +3119,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -3210,7 +3144,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -3235,7 +3169,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -3260,7 +3194,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -3285,7 +3219,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_6"
@@ -3349,7 +3283,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3374,7 +3308,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3399,7 +3333,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3424,7 +3358,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3449,7 +3383,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3474,7 +3408,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3499,7 +3433,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3524,7 +3458,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3549,7 +3483,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3574,7 +3508,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3599,7 +3533,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3624,7 +3558,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3649,7 +3583,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3674,7 +3608,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3699,7 +3633,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3724,7 +3658,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3749,7 +3683,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3774,7 +3708,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_7"
@@ -3838,7 +3772,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -3863,7 +3797,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -3888,7 +3822,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -3913,7 +3847,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -3938,7 +3872,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -3963,7 +3897,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -3988,7 +3922,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -4013,7 +3947,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -4038,7 +3972,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -4063,7 +3997,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -4088,7 +4022,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -4113,7 +4047,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -4138,7 +4072,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -4163,7 +4097,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -4188,7 +4122,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -4213,7 +4147,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -4238,7 +4172,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -4263,7 +4197,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
@@ -4288,7 +4222,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/tiff",
                 "label": {
                   "fr": [
                     "test: sXRF, sXRF_8"
