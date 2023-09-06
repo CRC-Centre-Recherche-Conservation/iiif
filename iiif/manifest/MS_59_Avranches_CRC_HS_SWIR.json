@@ -275,7 +275,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_1"
@@ -300,7 +300,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_1"
@@ -325,7 +325,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_1"
@@ -350,7 +350,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_1"
@@ -375,7 +375,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_1"
@@ -400,7 +400,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_1"
@@ -425,7 +425,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_1"
@@ -450,7 +450,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_1"
@@ -475,7 +475,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_1"
@@ -500,7 +500,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_1"
@@ -525,7 +525,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_1"
@@ -550,7 +550,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_1"
@@ -575,7 +575,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_1"
@@ -600,7 +600,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_1"
@@ -625,7 +625,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_1"
@@ -650,7 +650,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_1"
@@ -714,7 +714,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -739,7 +739,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -764,7 +764,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -789,7 +789,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -814,7 +814,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -839,7 +839,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -864,7 +864,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -889,7 +889,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -914,7 +914,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -939,7 +939,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -964,7 +964,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -989,7 +989,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -1014,7 +1014,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -1039,7 +1039,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -1064,7 +1064,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -1089,7 +1089,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -1114,7 +1114,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -1139,7 +1139,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -1164,7 +1164,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_2"
@@ -1228,7 +1228,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_3"
@@ -1253,7 +1253,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_3"
@@ -1278,7 +1278,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_3"
@@ -1303,7 +1303,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_3"
@@ -1328,7 +1328,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_3"
@@ -1353,7 +1353,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_3"
@@ -1378,7 +1378,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_3"
@@ -1403,7 +1403,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_3"
@@ -1428,7 +1428,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_3"
@@ -1453,7 +1453,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_3"
@@ -1478,7 +1478,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_3"
@@ -1503,7 +1503,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_3"
@@ -1528,7 +1528,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_3"
@@ -1553,7 +1553,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_3"
@@ -1578,7 +1578,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_3"
@@ -1642,7 +1642,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_VNIR_4"
@@ -1667,7 +1667,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_VNIR_4"
@@ -1692,7 +1692,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_VNIR_4"
@@ -1717,7 +1717,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_VNIR_4"
@@ -1742,7 +1742,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_VNIR_4"
@@ -1767,7 +1767,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_VNIR_4"
@@ -1792,7 +1792,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_VNIR_4"
@@ -1817,7 +1817,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_VNIR_4"
@@ -1842,7 +1842,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_VNIR_4"
@@ -1867,7 +1867,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_VNIR_4"
@@ -1892,7 +1892,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_VNIR_4"
@@ -1917,7 +1917,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_VNIR_4"
@@ -1942,7 +1942,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_VNIR_4"
@@ -1967,7 +1967,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_VNIR_4"
@@ -1992,7 +1992,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_VNIR_4"
@@ -2002,44 +2002,11 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1030.6121838256483,2054.951572751653,1512.9842388919308,2341.2134834400827"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
-      "type": "Canvas",
-      "label": {
-        "fr": [
-          "70"
-        ]
-      },
-      "height": 6092,
-      "width": 4310,
-      "items": [
+        },
         {
           "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_HS_SWIR&page/p32/1",
           "type": "AnnotationPage",
           "items": [
-            {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0070.tif/full/max/0/default.jpg",
-                "type": "dctypes:Image",
-                "height": 6092,
-                "width": 4310,
-                "service": [
-                  {
-                    "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/AVRANCHES_MS059_0070.tif",
-                    "type": "ImageService3",
-                    "profile": "level1"
-                  }
-                ],
-                "format": "image/jpeg"
-              },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70"
-            },
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
               "type": "Annotation",
@@ -2056,7 +2023,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2081,7 +2048,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2106,7 +2073,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2131,7 +2098,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2156,7 +2123,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2181,7 +2148,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2206,7 +2173,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2231,7 +2198,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2256,7 +2223,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2281,7 +2248,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2306,7 +2273,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2331,7 +2298,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2356,7 +2323,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2381,7 +2348,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2406,7 +2373,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2431,7 +2398,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2456,7 +2423,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2481,7 +2448,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_4"
@@ -2545,7 +2512,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2570,7 +2537,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2595,7 +2562,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2620,7 +2587,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2645,7 +2612,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2670,7 +2637,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2695,7 +2662,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2720,7 +2687,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2745,7 +2712,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2770,7 +2737,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2795,7 +2762,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2820,7 +2787,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2845,7 +2812,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2870,7 +2837,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2895,7 +2862,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2920,7 +2887,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2945,7 +2912,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2970,7 +2937,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -2995,7 +2962,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -3020,7 +2987,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -3045,7 +3012,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -3070,7 +3037,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -3095,7 +3062,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -3120,7 +3087,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_5"
@@ -3184,7 +3151,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_6"
@@ -3209,7 +3176,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_6"
@@ -3234,7 +3201,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_6"
@@ -3259,7 +3226,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_6"
@@ -3284,7 +3251,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_6"
@@ -3309,7 +3276,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_6"
@@ -3334,7 +3301,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_6"
@@ -3359,7 +3326,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_6"
@@ -3384,7 +3351,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_6"
@@ -3409,7 +3376,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_6"
@@ -3434,7 +3401,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_6"
@@ -3459,7 +3426,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_6"
@@ -3484,7 +3451,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_6"
@@ -3509,7 +3476,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_6"
@@ -3534,7 +3501,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_SWIR, HS_SWIR_6"
