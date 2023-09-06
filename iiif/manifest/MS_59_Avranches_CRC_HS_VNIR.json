@@ -335,7 +335,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_1"
@@ -360,7 +360,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_1"
@@ -385,7 +385,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_1"
@@ -410,7 +410,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_1"
@@ -435,7 +435,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_1"
@@ -460,7 +460,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_1"
@@ -485,7 +485,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_1"
@@ -510,7 +510,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_1"
@@ -535,7 +535,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_1"
@@ -560,7 +560,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_1"
@@ -585,7 +585,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_1"
@@ -610,7 +610,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_1"
@@ -635,7 +635,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_1"
@@ -660,7 +660,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_1"
@@ -685,7 +685,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_1"
@@ -710,7 +710,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_1"
@@ -774,7 +774,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -799,7 +799,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -824,7 +824,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -849,7 +849,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -874,7 +874,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -899,7 +899,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -924,7 +924,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -949,7 +949,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -974,7 +974,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -999,7 +999,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -1024,7 +1024,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -1049,7 +1049,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -1074,7 +1074,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -1099,7 +1099,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -1124,7 +1124,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -1149,7 +1149,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -1174,7 +1174,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -1199,7 +1199,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -1224,7 +1224,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -1249,7 +1249,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_2"
@@ -1313,7 +1313,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_3"
@@ -1338,7 +1338,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_3"
@@ -1363,7 +1363,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_3"
@@ -1388,7 +1388,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_3"
@@ -1413,7 +1413,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_3"
@@ -1438,7 +1438,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_3"
@@ -1463,7 +1463,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_3"
@@ -1488,7 +1488,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_3"
@@ -1513,7 +1513,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_3"
@@ -1538,7 +1538,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_3"
@@ -1563,7 +1563,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_3"
@@ -1588,7 +1588,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_3"
@@ -1613,7 +1613,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_3"
@@ -1638,7 +1638,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_3"
@@ -1663,7 +1663,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_3"
@@ -1688,7 +1688,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_3"
@@ -1713,7 +1713,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_3"
@@ -1777,7 +1777,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -1802,7 +1802,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -1827,7 +1827,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -1852,7 +1852,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -1877,7 +1877,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -1902,7 +1902,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -1927,7 +1927,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -1952,7 +1952,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -1977,7 +1977,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -2002,7 +2002,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -2027,7 +2027,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -2052,7 +2052,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -2077,7 +2077,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -2102,7 +2102,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -2127,7 +2127,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -2152,7 +2152,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -2177,7 +2177,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -2202,7 +2202,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_5"
@@ -2266,7 +2266,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
@@ -2291,7 +2291,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
@@ -2316,7 +2316,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
@@ -2341,7 +2341,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
@@ -2366,7 +2366,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
@@ -2391,7 +2391,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
@@ -2416,7 +2416,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
@@ -2441,7 +2441,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
@@ -2466,7 +2466,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
@@ -2491,7 +2491,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
@@ -2516,7 +2516,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
@@ -2541,7 +2541,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
@@ -2566,7 +2566,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
@@ -2591,7 +2591,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
@@ -2616,7 +2616,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
@@ -2641,7 +2641,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
@@ -2666,7 +2666,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
@@ -2691,7 +2691,7 @@
                     "profile": "level2"
                   }
                 ],
-                "format": "image/jpeg",
+                "format": "image/png",
                 "label": {
                   "fr": [
                     "test: HS_VNIR, HS_VNIR_6"
