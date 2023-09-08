@@ -1,10 +1,10 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://192.168.122.28:8183/iiif/iiif/manifest/MS_59_Avranches_CRC_HS_SWIR.json",
+  "id": "https://192.168.122.28:8183/iiif/iiif/manifest/Avranches_BM_59_CRC_HS_SWIR.json",
   "type": "Manifest",
   "label": {
     "fr": [
-      "MS 59 Avranches - analyses physico-chimique @CRC"
+      "Avranches BM, 59, analyses physico-chimique @CRC"
     ]
   },
   "metadata": [
@@ -16,14 +16,14 @@
       },
       "value": {
         "fr": [
-          "Centre de la Recherche sur la Conservations, Museum nationale d'Histoire Naturelle, Centre de la Recherche sur la Conservation"
+          "Centre de la Recherche sur la Conservations, Museum Nationale d'Histoire Naturelle, Centre de la Recherche sur la Conservation"
         ]
       }
     },
     {
       "label": {
         "fr": [
-          "Sources des données 0"
+          "Source des données (1)"
         ]
       },
       "value": {
@@ -47,7 +47,7 @@
     {
       "label": {
         "fr": [
-          "Responsable Scientifique 0"
+          "Responsable Scientifique"
         ]
       },
       "value": {
@@ -59,7 +59,7 @@
     {
       "label": {
         "fr": [
-          "Responsable Scientifique"
+          "Responsable Scientifique 1"
         ]
       },
       "value": {
@@ -76,14 +76,14 @@
       },
       "value": {
         "fr": [
-          "Centre de la Recherche sur la Conservations, Museum nationale d'Histoire Naturelle, Centre de la Recherche sur la Conservation"
+          "Centre de la Recherche sur la Conservations, Museum Nationale d'Histoire Naturelle, Centre de la Recherche sur la Conservation"
         ]
       }
     },
     {
       "label": {
         "fr": [
-          "Sources des données 0"
+          "Source des données (1)"
         ]
       },
       "value": {
@@ -107,7 +107,7 @@
     {
       "label": {
         "fr": [
-          "Responsable Scientifique 0"
+          "Responsable Scientifique"
         ]
       },
       "value": {
@@ -119,67 +119,7 @@
     {
       "label": {
         "fr": [
-          "Responsable Scientifique"
-        ]
-      },
-      "value": {
-        "fr": [
-          "n.c., Ingénieur de recherche"
-        ]
-      }
-    },
-    {
-      "label": {
-        "fr": [
-          "Institutions"
-        ]
-      },
-      "value": {
-        "fr": [
-          "Centre de la Recherche sur la Conservations, Museum nationale d'Histoire Naturelle, Centre de la Recherche sur la Conservation"
-        ]
-      }
-    },
-    {
-      "label": {
-        "fr": [
-          "Sources des données 0"
-        ]
-      },
-      "value": {
-        "fr": [
-          "https://doi.org/10.48579/PRO/CM1FLM"
-        ]
-      }
-    },
-    {
-      "label": {
-        "fr": [
-          "Techniques utilisées"
-        ]
-      },
-      "value": {
-        "fr": [
-          "XRF, Hyperspecral"
-        ]
-      }
-    },
-    {
-      "label": {
-        "fr": [
-          "Responsable Scientifique 0"
-        ]
-      },
-      "value": {
-        "fr": [
-          "MICHELIN Anne"
-        ]
-      }
-    },
-    {
-      "label": {
-        "fr": [
-          "Responsable Scientifique"
+          "Responsable Scientifique 1"
         ]
       },
       "value": {
@@ -191,18 +131,18 @@
   ],
   "summary": {
     "fr": [
-      "test bidule"
+      "None"
     ]
   },
   "requiredStatement": {
     "label": {
-      "fr": [
+      "none": [
         "Attribution"
       ]
     },
     "value": {
-      "fr": [
-        "<span>Centre de la Recherche sur la Conservation. <a href=\\\"https://spdx.org/licenses/etalab-2.0.html\\\">OPEN LICENCE 2.0</a> <a href=\\\"https://spdx.org/licenses/etalab-2.0.html\\\" title\\\"Etalab 2.0\\\"><img src=\\\"https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif\\\"/></a></span>"
+      "none": [
+        "<span>Centre de la Recherche sur la Conservation. <a href=\"https://spdx.org/licenses/etalab-2.0.html\">OPEN LICENCE 2.0</a> <a href=\"https://spdx.org/licenses/etalab-2.0.html\" title\"Etalab 2.0\"><img src=\"https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif\"/></a></span>"
       ]
     }
   },
@@ -236,7 +176,7 @@
       "width": 4429,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_HS_SWIR&page/p9/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p9/1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -675,7 +615,7 @@
       "width": 4429,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_HS_SWIR&page/p23/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p23/1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1189,7 +1129,7 @@
       "width": 4368,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_HS_SWIR&page/p28/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p28/1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1603,7 +1543,7 @@
       "width": 4310,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_HS_SWIR&page/p31/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p31/1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2004,7 +1944,7 @@
           ]
         },
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_HS_SWIR&page/p32/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p32/1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2473,7 +2413,7 @@
       "width": 4457,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_HS_SWIR&page/p42/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p42/1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3112,7 +3052,7 @@
       "width": 4329,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_HS_SWIR&page/p53/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p53/1",
           "type": "AnnotationPage",
           "items": [
             {
