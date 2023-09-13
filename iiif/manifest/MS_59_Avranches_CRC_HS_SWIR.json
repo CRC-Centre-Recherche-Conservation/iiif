@@ -158,8 +158,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_1",
-                    "blablabla",
                     "Spectre de référence: bleu",
                     "Aggrégation de pixels: Non"
                   ]
@@ -186,8 +184,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_1",
-                    "blablabla",
                     "Spectre de référence: jaune",
                     "Aggrégation de pixels: Non"
                   ]
@@ -214,8 +210,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_1",
-                    "blablabla",
                     "Spectre de référence: jaune",
                     "Aggrégation de pixels: Non"
                   ]
@@ -242,8 +236,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_1",
-                    "blablabla",
                     "Spectre de référence: 1&ms59 f1v swir mosaique rgb",
                     "Couleur: RGB",
                     "Aggrégation de pixels: Non"
@@ -271,8 +263,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_1",
-                    "blablabla",
                     "Spectre de référence: parchemin",
                     "Aggrégation de pixels: Non"
                   ]
@@ -299,8 +289,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_1",
-                    "blablabla",
                     "Spectre de référence: encre",
                     "Aggrégation de pixels: Non"
                   ]
@@ -327,8 +315,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_1",
-                    "blablabla",
                     "Spectre de référence: bleu",
                     "Aggrégation de pixels: Non"
                   ]
@@ -355,8 +341,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_1",
-                    "blablabla",
                     "Spectre de référence: bleu",
                     "Aggrégation de pixels: Non"
                   ]
@@ -383,8 +367,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_1",
-                    "blablabla",
                     "Spectre de référence: parchemin",
                     "Aggrégation de pixels: Non"
                   ]
@@ -411,8 +393,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_1",
-                    "blablabla",
                     "Spectre de référence: parchemin",
                     "Aggrégation de pixels: Non"
                   ]
@@ -439,8 +419,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_1",
-                    "blablabla",
                     "Spectre de référence: encre",
                     "Aggrégation de pixels: Non"
                   ]
@@ -467,8 +445,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_1",
-                    "blablabla",
                     "Spectre de référence: violet",
                     "Aggrégation de pixels: Non"
                   ]
@@ -495,8 +471,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_1",
-                    "blablabla",
                     "Spectre de référence: encre",
                     "Aggrégation de pixels: Non"
                   ]
@@ -523,8 +497,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_1",
-                    "blablabla",
                     "Spectre de référence: violet",
                     "Aggrégation de pixels: Non"
                   ]
@@ -551,8 +523,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_1",
-                    "blablabla",
                     "Spectre de référence: violet",
                     "Aggrégation de pixels: Non"
                   ]
@@ -579,8 +549,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_1",
-                    "blablabla",
                     "Spectre de référence: jaune",
                     "Aggrégation de pixels: Non"
                   ]
@@ -646,8 +614,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: blancpb",
                     "Objectif (mm): 56",
@@ -676,8 +642,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: pb",
                     "Objectif (mm): 56",
@@ -707,8 +671,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: encre",
                     "Objectif (mm): 56",
@@ -737,8 +699,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: encre",
                     "Objectif (mm): 56",
@@ -767,8 +727,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: orange",
                     "Objectif (mm): 56",
@@ -797,8 +755,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: blancpb",
                     "Objectif (mm): 56",
@@ -827,8 +783,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: encre",
                     "Objectif (mm): 56",
@@ -857,8 +811,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: orange",
                     "Objectif (mm): 56",
@@ -887,8 +839,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: parchemin",
                     "Objectif (mm): 56",
@@ -917,8 +867,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: orange",
                     "Objectif (mm): 56",
@@ -947,8 +895,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: rouge",
                     "Objectif (mm): 56",
@@ -977,8 +923,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: rouge",
                     "Objectif (mm): 56",
@@ -1007,8 +951,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: rouge",
                     "Objectif (mm): 56",
@@ -1037,8 +979,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: pb",
                     "Objectif (mm): 56",
@@ -1068,8 +1008,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: parchemin",
                     "Objectif (mm): 56",
@@ -1098,8 +1036,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: blancpb",
                     "Objectif (mm): 56",
@@ -1128,8 +1064,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: parchemin",
                     "Objectif (mm): 56",
@@ -1158,8 +1092,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: blancpb",
                     "Objectif (mm): 56",
@@ -1189,8 +1121,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_2",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: blancpb",
                     "Objectif (mm): 56",
@@ -1259,8 +1189,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_3",
-                    "blablabla",
                     "Spectre de référence: rouge",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1287,8 +1215,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_3",
-                    "blablabla",
                     "Spectre de référence: parchemin",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1315,8 +1241,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_3",
-                    "blablabla",
                     "Spectre de référence: bleu",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1343,8 +1267,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_3",
-                    "blablabla",
                     "Spectre de référence: parchemin",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1371,8 +1293,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_3",
-                    "blablabla",
                     "Spectre de référence: jaune",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1399,8 +1319,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_3",
-                    "blablabla",
                     "Spectre de référence: parchemin",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1427,8 +1345,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_3",
-                    "blablabla",
                     "Spectre de référence: encre",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1455,8 +1371,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_3",
-                    "blablabla",
                     "Spectre de référence: encre",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1483,8 +1397,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_3",
-                    "blablabla",
                     "Spectre de référence: encre",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1511,8 +1423,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_3",
-                    "blablabla",
                     "Spectre de référence: jaune",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1539,8 +1449,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_3",
-                    "blablabla",
                     "Spectre de référence: bleu",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1567,8 +1475,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_3",
-                    "blablabla",
                     "Spectre de référence: rouge",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1595,8 +1501,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_3",
-                    "blablabla",
                     "Spectre de référence: rouge",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1623,8 +1527,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_3",
-                    "blablabla",
                     "Spectre de référence: bleu",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1651,8 +1553,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_3",
-                    "blablabla",
                     "Spectre de référence: jaune",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1718,8 +1618,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_VNIR_4",
-                    "blablabla",
                     "Spectre de référence: parchemin",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1746,8 +1644,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_VNIR_4",
-                    "blablabla",
                     "Spectre de référence: rouge",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1774,8 +1670,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_VNIR_4",
-                    "blablabla",
                     "Spectre de référence: encre",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1802,8 +1696,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_VNIR_4",
-                    "blablabla",
                     "Spectre de référence: jaune",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1830,8 +1722,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_VNIR_4",
-                    "blablabla",
                     "Spectre de référence: rouge",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1858,8 +1748,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_VNIR_4",
-                    "blablabla",
                     "Spectre de référence: encre",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1886,8 +1774,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_VNIR_4",
-                    "blablabla",
                     "Spectre de référence: bleu",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1914,8 +1800,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_VNIR_4",
-                    "blablabla",
                     "Spectre de référence: bleu",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1942,8 +1826,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_VNIR_4",
-                    "blablabla",
                     "Spectre de référence: encre",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1970,8 +1852,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_VNIR_4",
-                    "blablabla",
                     "Spectre de référence: bleu",
                     "Aggrégation de pixels: Non"
                   ]
@@ -1998,8 +1878,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_VNIR_4",
-                    "blablabla",
                     "Spectre de référence: parchemin",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2026,8 +1904,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_VNIR_4",
-                    "blablabla",
                     "Spectre de référence: jaune",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2054,8 +1930,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_VNIR_4",
-                    "blablabla",
                     "Spectre de référence: jaune",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2082,8 +1956,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_VNIR_4",
-                    "blablabla",
                     "Spectre de référence: rouge",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2110,8 +1982,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_VNIR_4",
-                    "blablabla",
                     "Spectre de référence: parchemin",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2144,8 +2014,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: parchemin",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2172,8 +2040,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: jaune",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2200,8 +2066,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: rouge",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2228,8 +2092,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: parchemin",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2256,8 +2118,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: encre",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2284,8 +2144,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: parchemin",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2312,8 +2170,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: rouge",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2340,8 +2196,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: bleu",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2368,8 +2222,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: encre",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2396,8 +2248,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: jaune",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2424,8 +2274,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: jaune",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2452,8 +2300,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: blanc contraste",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2480,8 +2326,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: kubelkamunk rgb",
                     "Couleur: RGB",
                     "Aggrégation de pixels: Non"
@@ -2509,8 +2353,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: bleu",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2537,8 +2379,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: blanc",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2565,8 +2405,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: rouge",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2593,8 +2431,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: encre",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2621,8 +2457,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_4",
-                    "blablabla",
                     "Spectre de référence: bleu",
                     "Aggrégation de pixels: Non"
                   ]
@@ -2688,8 +2522,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: jaune",
                     "Objectif (mm): 56",
@@ -2718,8 +2550,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: rouge",
                     "Objectif (mm): 56",
@@ -2748,8 +2578,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: encre",
                     "Objectif (mm): 56",
@@ -2778,8 +2606,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: encre",
                     "Objectif (mm): 56",
@@ -2808,8 +2634,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: noirci",
                     "Objectif (mm): 56",
@@ -2838,8 +2662,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: bleu",
                     "Objectif (mm): 56",
@@ -2868,8 +2690,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: noirci",
                     "Objectif (mm): 56",
@@ -2898,8 +2718,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: rouge",
                     "Objectif (mm): 56",
@@ -2928,8 +2746,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: parchemin",
                     "Objectif (mm): 56",
@@ -2958,8 +2774,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: bleu",
                     "Objectif (mm): 56",
@@ -2988,8 +2802,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: bleu",
                     "Objectif (mm): 56",
@@ -3018,8 +2830,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: bleu",
                     "Objectif (mm): 56",
@@ -3048,8 +2858,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: jaune",
                     "Objectif (mm): 56",
@@ -3078,8 +2886,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: encre",
                     "Objectif (mm): 56",
@@ -3108,8 +2914,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: parchemin",
                     "Objectif (mm): 56",
@@ -3138,8 +2942,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: jaune",
                     "Objectif (mm): 56",
@@ -3168,8 +2970,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: encre",
                     "Objectif (mm): 56",
@@ -3198,8 +2998,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: noirci",
                     "Objectif (mm): 56",
@@ -3228,8 +3026,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: parchemin",
                     "Objectif (mm): 56",
@@ -3258,8 +3054,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: rouge",
                     "Objectif (mm): 56",
@@ -3288,8 +3082,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: noirci",
                     "Objectif (mm): 56",
@@ -3318,8 +3110,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: parchemin",
                     "Objectif (mm): 56",
@@ -3348,8 +3138,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: rouge",
                     "Objectif (mm): 56",
@@ -3378,8 +3166,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_5",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: jaune",
                     "Objectif (mm): 56",
@@ -3447,8 +3233,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_6",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: fonce",
                     "Objectif (mm): 56",
@@ -3477,8 +3261,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_6",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: parchemin",
                     "Objectif (mm): 56",
@@ -3507,8 +3289,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_6",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: jaune",
                     "Objectif (mm): 56",
@@ -3537,8 +3317,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_6",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: jaune",
                     "Objectif (mm): 56",
@@ -3567,8 +3345,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_6",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: encre",
                     "Objectif (mm): 56",
@@ -3597,8 +3373,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_6",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: clair",
                     "Objectif (mm): 56",
@@ -3627,8 +3401,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_6",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: fonce",
                     "Objectif (mm): 56",
@@ -3657,8 +3429,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_6",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: jaune",
                     "Objectif (mm): 56",
@@ -3687,8 +3457,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_6",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: encre",
                     "Objectif (mm): 56",
@@ -3717,8 +3485,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_6",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: clair",
                     "Objectif (mm): 56",
@@ -3747,8 +3513,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_6",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: encre",
                     "Objectif (mm): 56",
@@ -3777,8 +3541,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_6",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: parchemin",
                     "Objectif (mm): 56",
@@ -3807,8 +3569,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_6",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: fonce",
                     "Objectif (mm): 56",
@@ -3837,8 +3597,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_6",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: parchemin",
                     "Objectif (mm): 56",
@@ -3867,8 +3625,6 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "test: HS_SWIR, HS_SWIR_6",
-                    "blablabla",
                     "Distance (objet/objectif): 43",
                     "Spectre de référence: clair",
                     "Objectif (mm): 56",
