@@ -1,10 +1,10 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://192.168.122.28:8183/iiif/iiif/manifest/MS_59_Avranches_CRC_sXRF.json",
+  "id": "https://192.168.122.28:8183/iiif/iiif/manifest/Avranches_BM_59_CRC_sXRF.json",
   "type": "Manifest",
   "label": {
     "fr": [
-      "MS 59 Avranches - analyses physico-chimique @CRC"
+      "Avranches BM, 59, analyses physico-chimique @CRC"
     ]
   },
   "metadata": [
@@ -16,14 +16,14 @@
       },
       "value": {
         "fr": [
-          "Centre de la Recherche sur la Conservations, Museum nationale d'Histoire Naturelle, Centre de la Recherche sur la Conservation"
+          "Centre de la Recherche sur la Conservations, Museum Nationale d'Histoire Naturelle, Centre de la Recherche sur la Conservation"
         ]
       }
     },
     {
       "label": {
         "fr": [
-          "Sources des données 0"
+          "Source des données (1)"
         ]
       },
       "value": {
@@ -47,7 +47,7 @@
     {
       "label": {
         "fr": [
-          "Responsable Scientifique 0"
+          "Responsable Scientifique"
         ]
       },
       "value": {
@@ -59,67 +59,7 @@
     {
       "label": {
         "fr": [
-          "Responsable Scientifique"
-        ]
-      },
-      "value": {
-        "fr": [
-          "n.c., Ingénieur de recherche"
-        ]
-      }
-    },
-    {
-      "label": {
-        "fr": [
-          "Institutions"
-        ]
-      },
-      "value": {
-        "fr": [
-          "Centre de la Recherche sur la Conservations, Museum nationale d'Histoire Naturelle, Centre de la Recherche sur la Conservation"
-        ]
-      }
-    },
-    {
-      "label": {
-        "fr": [
-          "Sources des données 0"
-        ]
-      },
-      "value": {
-        "fr": [
-          "https://doi.org/10.48579/PRO/CM1FLM"
-        ]
-      }
-    },
-    {
-      "label": {
-        "fr": [
-          "Techniques utilisées"
-        ]
-      },
-      "value": {
-        "fr": [
-          "XRF, Hyperspecral"
-        ]
-      }
-    },
-    {
-      "label": {
-        "fr": [
-          "Responsable Scientifique 0"
-        ]
-      },
-      "value": {
-        "fr": [
-          "MICHELIN Anne"
-        ]
-      }
-    },
-    {
-      "label": {
-        "fr": [
-          "Responsable Scientifique"
+          "Responsable Scientifique 1"
         ]
       },
       "value": {
@@ -131,18 +71,18 @@
   ],
   "summary": {
     "fr": [
-      "test bidule"
+      "None"
     ]
   },
   "requiredStatement": {
     "label": {
-      "fr": [
+      "none": [
         "Attribution"
       ]
     },
     "value": {
-      "fr": [
-        "<span>Centre de la Recherche sur la Conservation. <a href=\\\"https://spdx.org/licenses/etalab-2.0.html\\\">OPEN LICENCE 2.0</a> <a href=\\\"https://spdx.org/licenses/etalab-2.0.html\\\" title\\\"Etalab 2.0\\\"><img src=\\\"https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif\\\"/></a></span>"
+      "none": [
+        "<span>Centre de la Recherche sur la Conservation. <a href=\"https://spdx.org/licenses/etalab-2.0.html\">OPEN LICENCE 2.0</a> <a href=\"https://spdx.org/licenses/etalab-2.0.html\" title\"Etalab 2.0\"><img src=\"https://www.etalab.gouv.fr/wp-content/uploads/2011/10/licence-ouverte-open-licence.gif\"/></a></span>"
       ]
     }
   },
@@ -176,7 +116,7 @@
       "width": 4429,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p0/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_sXRF&page/p0/1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -218,7 +158,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_3"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Plomb (Pb)"
                   ]
                 }
               },
@@ -243,7 +184,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_3"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Nickel (Ni)"
                   ]
                 }
               },
@@ -268,7 +210,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_3"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Manganèse (Mn)"
                   ]
                 }
               },
@@ -293,7 +236,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_3"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Cuivre (Cu)"
                   ]
                 }
               },
@@ -318,7 +262,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_3"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Zinc (Zn)"
                   ]
                 }
               },
@@ -343,7 +288,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_3"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Potassium (K)"
                   ]
                 }
               },
@@ -368,7 +314,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_3"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Calcium (Ca)"
                   ]
                 }
               },
@@ -393,7 +340,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_3"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Soufre (S)"
                   ]
                 }
               },
@@ -418,7 +366,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_3"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Soufre (S)"
                   ]
                 }
               },
@@ -443,7 +392,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_3"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Titane (Ti)"
                   ]
                 }
               },
@@ -468,7 +418,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_3"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Chlore (Cl)"
                   ]
                 }
               },
@@ -493,7 +444,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_3"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Mercure (Hg)"
                   ]
                 }
               },
@@ -518,7 +470,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_3"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Arsenic (As)"
                   ]
                 }
               },
@@ -543,7 +496,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_3"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Brome (Br)"
                   ]
                 }
               },
@@ -568,7 +522,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_3"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Silicium (Si)"
                   ]
                 }
               },
@@ -593,7 +548,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_3"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Fer (Fe)"
                   ]
                 }
               },
@@ -602,7 +558,7 @@
           ]
         },
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p1/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_sXRF&page/p1/1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -624,7 +580,9 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Titane (Ti)",
+                    "Limite (par coups): 200"
                   ]
                 }
               },
@@ -649,7 +607,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Nickel (Ni)"
                   ]
                 }
               },
@@ -674,7 +633,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Titane (Ti)"
                   ]
                 }
               },
@@ -699,7 +659,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Cuivre (Cu)"
                   ]
                 }
               },
@@ -724,7 +685,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Titane (Ti)"
                   ]
                 }
               },
@@ -749,7 +711,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Arsenic (As)"
                   ]
                 }
               },
@@ -774,7 +737,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Plomb (Pb)"
                   ]
                 }
               },
@@ -799,7 +763,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Plomb (Pb)"
                   ]
                 }
               },
@@ -824,7 +789,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Arsenic (As)"
                   ]
                 }
               },
@@ -849,7 +815,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Calcium (Ca)"
                   ]
                 }
               },
@@ -874,7 +841,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Silicium (Si)"
                   ]
                 }
               },
@@ -899,7 +867,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Fer (Fe)"
                   ]
                 }
               },
@@ -924,7 +893,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Brome (Br)"
                   ]
                 }
               },
@@ -949,7 +919,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Brome (Br)"
                   ]
                 }
               },
@@ -974,7 +945,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Mercure (Hg)"
                   ]
                 }
               },
@@ -999,7 +971,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Zinc (Zn)"
                   ]
                 }
               },
@@ -1024,7 +997,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Silicium (Si)"
                   ]
                 }
               },
@@ -1049,7 +1023,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Manganèse (Mn)"
                   ]
                 }
               },
@@ -1074,7 +1049,9 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Brome (Br)",
+                    "Limite (par coups): 255"
                   ]
                 }
               },
@@ -1099,7 +1076,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Cuivre (Cu)"
                   ]
                 }
               },
@@ -1124,7 +1102,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Nickel (Ni)"
                   ]
                 }
               },
@@ -1149,7 +1128,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Nickel (Ni)"
                   ]
                 }
               },
@@ -1174,7 +1154,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Mercure (Hg)"
                   ]
                 }
               },
@@ -1199,7 +1180,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Brome (Br)"
                   ]
                 }
               },
@@ -1224,7 +1206,9 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Fer (Fe)",
+                    "Limite (par coups): 255"
                   ]
                 }
               },
@@ -1249,7 +1233,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Zinc (Zn)"
                   ]
                 }
               },
@@ -1274,7 +1259,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Potassium (K)"
                   ]
                 }
               },
@@ -1299,7 +1285,9 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Soufre (S)",
+                    "Limite (par coups): 255"
                   ]
                 }
               },
@@ -1324,7 +1312,9 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Arsenic (As)",
+                    "Limite (par coups): 255"
                   ]
                 }
               },
@@ -1349,7 +1339,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Chlore (Cl)"
                   ]
                 }
               },
@@ -1374,7 +1365,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Fer (Fe)"
                   ]
                 }
               },
@@ -1399,7 +1391,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Soufre (S)"
                   ]
                 }
               },
@@ -1424,7 +1417,9 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Cuivre (Cu)",
+                    "Limite (par coups): 100"
                   ]
                 }
               },
@@ -1449,7 +1444,9 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Plomb (Pb)",
+                    "Limite (par coups): 100"
                   ]
                 }
               },
@@ -1474,7 +1471,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Potassium (K)"
                   ]
                 }
               },
@@ -1499,7 +1497,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Manganèse (Mn)"
                   ]
                 }
               },
@@ -1524,7 +1523,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Calcium (Ca)"
                   ]
                 }
               },
@@ -1549,7 +1549,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Soufre (S)"
                   ]
                 }
               },
@@ -1574,7 +1575,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Chlore (Cl)"
                   ]
                 }
               },
@@ -1599,7 +1601,9 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_2"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Soufre (S)",
+                    "Limite (par coups): 255"
                   ]
                 }
               },
@@ -1608,7 +1612,7 @@
           ]
         },
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p2/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_sXRF&page/p2/1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1630,7 +1634,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_1"
+                    "Méthodologie: Déconvolution",
+                    "Limite (par coups): 100"
                   ]
                 }
               },
@@ -1652,7 +1657,7 @@
       "width": 4429,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p19/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_sXRF&page/p19/1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1694,7 +1699,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Chlore (Cl)"
                   ]
                 }
               },
@@ -1719,7 +1725,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Plomb (Pb)"
                   ]
                 }
               },
@@ -1744,7 +1751,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Silicium (Si)"
                   ]
                 }
               },
@@ -1769,7 +1777,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Cuivre (Cu) \nÉlimination: Mercure (Hg)"
                   ]
                 }
               },
@@ -1794,7 +1803,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Soufre (S)"
                   ]
                 }
               },
@@ -1819,7 +1829,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Potassium (K)"
                   ]
                 }
               },
@@ -1844,7 +1855,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Nickel (Ni)"
                   ]
                 }
               },
@@ -1869,7 +1881,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Calcium (Ca)"
                   ]
                 }
               },
@@ -1894,7 +1907,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Titane (Ti)"
                   ]
                 }
               },
@@ -1919,7 +1933,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Limite (par coups): 255"
                   ]
                 }
               },
@@ -1944,7 +1959,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Manganèse (Mn)"
                   ]
                 }
               },
@@ -1969,7 +1985,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Zinc (Zn)"
                   ]
                 }
               },
@@ -1994,7 +2011,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Limite (par coups): 20"
                   ]
                 }
               },
@@ -2019,7 +2037,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Arsenic (As)"
                   ]
                 }
               },
@@ -2044,7 +2063,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Limite (par coups): 255"
                   ]
                 }
               },
@@ -2069,7 +2089,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Limite (par coups): 255"
                   ]
                 }
               },
@@ -2094,7 +2115,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Cuivre (Cu)"
                   ]
                 }
               },
@@ -2119,7 +2141,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Mercure (Hg)"
                   ]
                 }
               },
@@ -2144,7 +2167,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Mercure (Hg)"
                   ]
                 }
               },
@@ -2169,7 +2193,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_4"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Fer (Fe)"
                   ]
                 }
               },
@@ -2191,7 +2216,7 @@
       "width": 4368,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p26/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_sXRF&page/p26/1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2233,7 +2258,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Silicium (Si)"
                   ]
                 }
               },
@@ -2258,7 +2284,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Manganèse (Mn)"
                   ]
                 }
               },
@@ -2283,7 +2310,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Fer (Fe)"
                   ]
                 }
               },
@@ -2308,7 +2336,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Nickel (Ni)"
                   ]
                 }
               },
@@ -2333,7 +2362,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Nickel (Ni) \nÉlimination: Mercure (Hg)"
                   ]
                 }
               },
@@ -2358,7 +2388,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Soufre (S)"
                   ]
                 }
               },
@@ -2383,7 +2414,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Soufre (S)"
                   ]
                 }
               },
@@ -2408,7 +2440,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Limite (par coups): 255"
                   ]
                 }
               },
@@ -2433,7 +2466,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Cuivre (Cu) \nÉlimination: Mercure (Hg)"
                   ]
                 }
               },
@@ -2458,7 +2492,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Cuivre (Cu)"
                   ]
                 }
               },
@@ -2483,7 +2518,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Potassium (K)"
                   ]
                 }
               },
@@ -2508,7 +2544,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Mercure (Hg)"
                   ]
                 }
               },
@@ -2533,7 +2570,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Zinc (Zn)"
                   ]
                 }
               },
@@ -2558,7 +2596,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Arsenic (As)"
                   ]
                 }
               },
@@ -2583,7 +2622,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Plomb (Pb)"
                   ]
                 }
               },
@@ -2608,7 +2648,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Potassium (K) \nÉlimination: Mercure (Hg)"
                   ]
                 }
               },
@@ -2633,7 +2674,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Zinc (Zn) \nÉlimination: Mercure (Hg)"
                   ]
                 }
               },
@@ -2658,7 +2700,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Chlore (Cl)"
                   ]
                 }
               },
@@ -2683,7 +2726,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Calcium (Ca)"
                   ]
                 }
               },
@@ -2708,7 +2752,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Titane (Ti)"
                   ]
                 }
               },
@@ -2733,7 +2778,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_5"
+                    "Méthodologie: Déconvolution",
+                    "Limite (par coups): 50"
                   ]
                 }
               },
@@ -2755,7 +2801,7 @@
       "width": 4310,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p30/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_sXRF&page/p30/1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2797,7 +2843,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Manganèse (Mn)"
                   ]
                 }
               },
@@ -2822,7 +2869,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Mercure (Hg)"
                   ]
                 }
               },
@@ -2847,7 +2895,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Cuivre (Cu)"
                   ]
                 }
               },
@@ -2872,7 +2921,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Zinc (Zn) \nÉlimination: Mercure (Hg)"
                   ]
                 }
               },
@@ -2897,7 +2947,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Zinc (Zn)"
                   ]
                 }
               },
@@ -2922,7 +2973,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Arsenic (As)"
                   ]
                 }
               },
@@ -2947,7 +2999,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Silicium (Si)"
                   ]
                 }
               },
@@ -2972,7 +3025,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Calcium (Ca)"
                   ]
                 }
               },
@@ -2997,7 +3051,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Potassium (K)"
                   ]
                 }
               },
@@ -3022,7 +3077,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Fer (Fe)"
                   ]
                 }
               },
@@ -3047,7 +3103,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Limite (par coups): 255"
                   ]
                 }
               },
@@ -3072,7 +3129,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Titane (Ti)"
                   ]
                 }
               },
@@ -3097,7 +3155,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Plomb (Pb)"
                   ]
                 }
               },
@@ -3122,7 +3181,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Soufre (S)"
                   ]
                 }
               },
@@ -3147,7 +3207,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Cuivre (Cu) \nÉlimination: Mercure (Hg)"
                   ]
                 }
               },
@@ -3172,7 +3233,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Nickel (Ni)"
                   ]
                 }
               },
@@ -3197,7 +3259,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Nickel (Ni)"
                   ]
                 }
               },
@@ -3222,7 +3285,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_6"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Chlore (Cl)"
                   ]
                 }
               },
@@ -3244,7 +3308,7 @@
       "width": 4457,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p40/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_sXRF&page/p40/1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3286,7 +3350,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Manganèse (Mn)"
                   ]
                 }
               },
@@ -3311,7 +3376,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Arsenic (As)"
                   ]
                 }
               },
@@ -3336,7 +3402,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Limite (par coups): 255"
                   ]
                 }
               },
@@ -3361,7 +3428,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Mercure (Hg)"
                   ]
                 }
               },
@@ -3386,7 +3454,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Mercure (Hg)"
                   ]
                 }
               },
@@ -3411,7 +3480,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Chlore (Cl)"
                   ]
                 }
               },
@@ -3436,7 +3506,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Plomb (Pb)"
                   ]
                 }
               },
@@ -3461,7 +3532,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Soufre (S)"
                   ]
                 }
               },
@@ -3486,7 +3558,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Potassium (K)"
                   ]
                 }
               },
@@ -3511,7 +3584,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Fer (Fe)"
                   ]
                 }
               },
@@ -3536,7 +3610,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Zinc (Zn)"
                   ]
                 }
               },
@@ -3561,7 +3636,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Silicium (Si)"
                   ]
                 }
               },
@@ -3586,7 +3662,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Calcium (Ca)"
                   ]
                 }
               },
@@ -3611,7 +3688,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Cuivre (Cu)"
                   ]
                 }
               },
@@ -3636,7 +3714,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Titane (Ti)"
                   ]
                 }
               },
@@ -3661,7 +3740,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Zinc (Zn) \nÉlimination: Mercure (Hg)"
                   ]
                 }
               },
@@ -3686,7 +3766,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Cuivre (Cu) \nÉlimination: Mercure (Hg)"
                   ]
                 }
               },
@@ -3711,7 +3792,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_7"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Nickel (Ni)"
                   ]
                 }
               },
@@ -3733,7 +3815,7 @@
       "width": 4329,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/MS_59_Avranches_CRC_sXRF&page/p51/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_sXRF&page/p51/1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3775,7 +3857,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Silicium (Si)"
                   ]
                 }
               },
@@ -3800,7 +3883,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Arsenic (As)"
                   ]
                 }
               },
@@ -3825,7 +3909,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Potassium (K)"
                   ]
                 }
               },
@@ -3850,7 +3935,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Soufre (S)"
                   ]
                 }
               },
@@ -3875,7 +3961,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Calcium (Ca)"
                   ]
                 }
               },
@@ -3900,7 +3987,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Calcium (Ca)"
                   ]
                 }
               },
@@ -3925,7 +4013,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Limite (par coups): 255"
                   ]
                 }
               },
@@ -3950,7 +4039,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Fer (Fe)"
                   ]
                 }
               },
@@ -3975,7 +4065,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Nickel (Ni)"
                   ]
                 }
               },
@@ -4000,7 +4091,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Manganèse (Mn)"
                   ]
                 }
               },
@@ -4025,7 +4117,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Zinc (Zn) \nÉlimination: Mercure (Hg)"
                   ]
                 }
               },
@@ -4050,7 +4143,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Cuivre (Cu) \nÉlimination: Mercure (Hg)"
                   ]
                 }
               },
@@ -4075,7 +4169,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Titane (Ti)"
                   ]
                 }
               },
@@ -4100,7 +4195,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Mercure (Hg)"
                   ]
                 }
               },
@@ -4125,7 +4221,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Plomb (Pb)"
                   ]
                 }
               },
@@ -4150,7 +4247,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Limite (par coups): 255"
                   ]
                 }
               },
@@ -4175,7 +4273,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Cuivre (Cu)"
                   ]
                 }
               },
@@ -4200,7 +4299,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Chlore (Cl)"
                   ]
                 }
               },
@@ -4225,7 +4325,8 @@
                 "format": "image/tiff",
                 "label": {
                   "fr": [
-                    "test: sXRF, sXRF_8"
+                    "Méthodologie: Déconvolution",
+                    "Élement chimique: Zinc (Zn)"
                   ]
                 }
               },
