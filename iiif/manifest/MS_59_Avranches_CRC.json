@@ -190,7 +190,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"sXRF_2\" d=\"M201.9311252,652.555603 L541.5146041,652.555603 L541.5146041,803.8579274 L201.9311252,803.8579274 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M201.9311252,652.555603 L541.5146041,652.555603 L541.5146041,803.8579274 L201.9311252,803.8579274 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -221,7 +221,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"sXRF_1\" d=\"M190.6116759,380.8289797 L710.2773027000001,380.8289797 L710.2773027000001,806.9457299000001 L190.6116759,806.9457299000001 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M190.6116759,380.8289797 L710.2773027000001,380.8289797 L710.2773027000001,806.9457299000001 L190.6116759,806.9457299000001 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -252,7 +252,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"Mvis_04\" d=\"M213.1938339,433.6607675 L226.82920764,433.6607675 L226.82920764,446.05034106 L213.1938339,446.05034106 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M213.1938339,433.6607675 L226.82920764,433.6607675 L226.82920764,446.05034106 L213.1938339,446.05034106 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -307,7 +307,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"Mvis_03\" d=\"M408.5006214,698.1815518 L437.22246341,698.1815518 L437.22246341,727.7802709499999 L408.5006214,727.7802709499999 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M408.5006214,698.1815518 L437.22246341,698.1815518 L437.22246341,727.7802709499999 L408.5006214,727.7802709499999 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -362,7 +362,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"Mvis_02\" d=\"M279.4841165,600.5489238 L302.92078422000003,600.5489238 L302.92078422000003,620.14926354 L279.4841165,620.14926354 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M279.4841165,600.5489238 L302.92078422000003,600.5489238 L302.92078422000003,620.14926354 L279.4841165,620.14926354 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -405,7 +405,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"Mvis_01\" d=\"M603.4610036,700.7932035 L631.3124867600001,700.7932035 L631.3124867600001,725.16861927 L603.4610036,725.16861927 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M603.4610036,700.7932035 L631.3124867600001,700.7932035 L631.3124867600001,725.16861927 L603.4610036,725.16861927 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -448,7 +448,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"IR_01\" d=\"M268.8651602,391.7477535 L286.70751659999996,391.7477535 L286.70751659999996,409.15876477 L268.8651602,409.15876477 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M268.8651602,391.7477535 L286.70751659999996,391.7477535 L286.70751659999996,409.15876477 L268.8651602,409.15876477 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -491,7 +491,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"HS_VNIR_1\" d=\"M190.0949621,78.60262009 L712.5417456,78.60262009 L712.5417456,812.2270741899999 L190.0949621,812.2270741899999 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M190.0949621,78.60262009 L712.5417456,78.60262009 L712.5417456,812.2270741899999 L190.0949621,812.2270741899999 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -534,7 +534,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"HS_SWIR_1\" d=\"M190.6831722,80.05822416 L712.0888101,80.05822416 L712.0888101,812.22707426 L190.6831722,812.22707426 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M190.6831722,80.05822416 L712.0888101,80.05822416 L712.0888101,812.22707426 L190.6831722,812.22707426 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -577,7 +577,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FTIR_03\" d=\"M286.6747391,59.5 L308.66989421,59.5 L308.66989421,80.0 L286.6747391,80.0 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M286.6747391,59.5 L308.66989421,59.5 L308.66989421,80.0 L286.6747391,80.0 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -608,7 +608,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FTIR_02\" d=\"M230.1067633,682.1838089 L247.25136225,682.1838089 L247.25136225,699.3321843 L230.1067633,699.3321843 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M230.1067633,682.1838089 L247.25136225,682.1838089 L247.25136225,699.3321843 L230.1067633,699.3321843 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -651,7 +651,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_13\" d=\"M203.8540962,688.0785629 L226.35638232,688.0785629 L226.35638232,710.04991888 L203.8540962,710.04991888 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M203.8540962,688.0785629 L226.35638232,688.0785629 L226.35638232,710.04991888 L203.8540962,710.04991888 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -694,7 +694,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_12\" d=\"M441.8692073,688.1702203 L455.35976946000005,688.1702203 L455.35976946000005,704.05776808 L441.8692073,704.05776808 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M441.8692073,688.1702203 L455.35976946000005,688.1702203 L455.35976946000005,704.05776808 L441.8692073,704.05776808 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -725,7 +725,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_11\" d=\"M419.8926463,702.3166669 L433.60079817,702.3166669 L433.60079817,717.11602648 L419.8926463,717.11602648 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M419.8926463,702.3166669 L433.60079817,702.3166669 L433.60079817,717.11602648 L419.8926463,717.11602648 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -780,7 +780,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_10\" d=\"M279.6649436,604.5973662 L290.11174207,604.5973662 L290.11174207,617.43798701 L279.6649436,617.43798701 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M279.6649436,604.5973662 L290.11174207,604.5973662 L290.11174207,617.43798701 L279.6649436,617.43798701 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -823,7 +823,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_09\" d=\"M376.026798,723.7546605 L394.21139127,723.7546605 L394.21139127,739.66968445 L376.026798,739.66968445 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M376.026798,723.7546605 L394.21139127,723.7546605 L394.21139127,739.66968445 L376.026798,739.66968445 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -866,7 +866,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_08\" d=\"M231.0029207,414.8173434 L240.359278325,414.8173434 L240.359278325,422.86993611 L231.0029207,422.86993611 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M231.0029207,414.8173434 L240.359278325,414.8173434 L240.359278325,422.86993611 L231.0029207,422.86993611 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -909,7 +909,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_07\" d=\"M215.5431713,435.4929193 L224.384407669,435.4929193 L224.384407669,443.110236729 L215.5431713,443.110236729 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M215.5431713,435.4929193 L224.384407669,435.4929193 L224.384407669,443.110236729 L215.5431713,443.110236729 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1410,7 +1410,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"mVis_06\" d=\"M124.446389,518.6373073 L147.41529673,518.6373073 L147.41529673,543.0471473399999 L124.446389,543.0471473399999 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M124.446389,518.6373073 L147.41529673,518.6373073 L147.41529673,543.0471473399999 L124.446389,543.0471473399999 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1465,7 +1465,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"mVis_05\" d=\"M48.93610486,593.0155258 L76.21168278,593.0155258 L76.21168278,611.96904866 L48.93610486,611.96904866 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M48.93610486,593.0155258 L76.21168278,593.0155258 L76.21168278,611.96904866 L48.93610486,611.96904866 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1508,7 +1508,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"HS_VNIR_2\" d=\"M24.83019451,495.6633402 L249.84201871,495.6633402 L249.84201871,802.3658009999999 L24.83019451,802.3658009999999 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M24.83019451,495.6633402 L249.84201871,495.6633402 L249.84201871,802.3658009999999 L24.83019451,802.3658009999999 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1551,7 +1551,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"HS_SWIR_2\" d=\"M56.98666532,385.9626473 L218.91746482000002,385.9626473 L218.91746482000002,791.4531666 L56.98666532,791.4531666 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M56.98666532,385.9626473 L218.91746482000002,385.9626473 L218.91746482000002,791.4531666 L56.98666532,791.4531666 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1594,7 +1594,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_15\" d=\"M92.39137228,659.0067764 L101.09496076799999,659.0067764 L101.09496076799999,669.23574552 L92.39137228,669.23574552 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M92.39137228,659.0067764 L101.09496076799999,659.0067764 L101.09496076799999,669.23574552 L92.39137228,669.23574552 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1637,7 +1637,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_14\" d=\"M162.6747665,530.3829307 L176.16532866,530.3829307 L176.16532866,541.26481274 L162.6747665,541.26481274 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4429\" height=\"6074\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M162.6747665,530.3829307 L176.16532866,530.3829307 L176.16532866,541.26481274 L162.6747665,541.26481274 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1782,7 +1782,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4368\" height=\"6041\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"HS_VNIR_3\" d=\"M441.4830039,69.55965935 L704.2744509,69.55965935 L704.2744509,293.32015645 L441.4830039,293.32015645 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4368\" height=\"6041\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M441.4830039,69.55965935 L704.2744509,69.55965935 L704.2744509,293.32015645 L441.4830039,293.32015645 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1825,7 +1825,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4368\" height=\"6041\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"HS_SWIR_3\" d=\"M453.6763096,87.10346724 L669.4357237,87.10346724 L669.4357237,284.70214554 L453.6763096,284.70214554 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4368\" height=\"6041\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M453.6763096,87.10346724 L669.4357237,87.10346724 L669.4357237,284.70214554 L453.6763096,284.70214554 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -1868,7 +1868,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4368\" height=\"6041\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_16\" d=\"M466.6126365,204.0 L481.60933317,204.0 L481.60933317,220.5 L466.6126365,220.5 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4368\" height=\"6041\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M466.6126365,204.0 L481.60933317,204.0 L481.60933317,220.5 L466.6126365,220.5 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2118,7 +2118,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"HS_VNIR_4\" d=\"M165.9500825,326.5254633 L409.5721386,326.5254633 L409.5721386,698.5370608000001 L165.9500825,698.5370608000001 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M165.9500825,326.5254633 L409.5721386,326.5254633 L409.5721386,698.5370608000001 L165.9500825,698.5370608000001 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2161,7 +2161,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"HS_SWIR_4\" d=\"M160.8286576,301.345639 L402.0658306,301.345639 L402.0658306,694.4757988 L160.8286576,694.4757988 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M160.8286576,301.345639 L402.0658306,301.345639 L402.0658306,694.4757988 L160.8286576,694.4757988 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2204,7 +2204,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FTIR_10\" d=\"M162.3220277,541.8686725 L177.47585542000002,541.8686725 L177.47585542000002,556.64690902 L162.3220277,556.64690902 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M162.3220277,541.8686725 L177.47585542000002,541.8686725 L177.47585542000002,556.64690902 L162.3220277,556.64690902 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2247,7 +2247,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FTIR_09\" d=\"M221.4237491,570.4282566 L241.0068232,570.4282566 L241.0068232,587.18635494 L221.4237491,587.18635494 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M221.4237491,570.4282566 L241.0068232,570.4282566 L241.0068232,587.18635494 L221.4237491,587.18635494 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2290,7 +2290,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FTIR_08\" d=\"M192.0435303,651.6070966 L208.14516899999998,651.6070966 L208.14516899999998,672.71794776 L192.0435303,672.71794776 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M192.0435303,651.6070966 L208.14516899999998,651.6070966 L208.14516899999998,672.71794776 L192.0435303,672.71794776 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2333,7 +2333,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FTIR_04\" d=\"M245.34352,372.1603658 L257.96372331000003,372.1603658 L257.96372331000003,385.87153717 L245.34352,385.87153717 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M245.34352,372.1603658 L257.96372331000003,372.1603658 L257.96372331000003,385.87153717 L245.34352,385.87153717 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2376,7 +2376,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_19\" d=\"M192.6962995,652.2600095 L201.617477701,652.2600095 L201.617477701,660.530239851 L192.6962995,660.530239851 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M192.6962995,652.2600095 L201.617477701,652.2600095 L201.617477701,660.530239851 L192.6962995,660.530239851 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2419,7 +2419,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_18\" d=\"M225.777796,573.0399083 L233.39343592699998,573.0399083 L233.39343592699998,580.657225729 L225.777796,580.657225729 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M225.777796,573.0399083 L233.39343592699998,573.0399083 L233.39343592699998,580.657225729 L225.777796,580.657225729 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2462,7 +2462,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_17\" d=\"M385.8409866,493.3657424 L393.796746154,493.3657424 L393.796746154,502.081112657 L385.8409866,502.081112657 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4310\" height=\"6092\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M385.8409866,493.3657424 L393.796746154,493.3657424 L393.796746154,502.081112657 L385.8409866,502.081112657 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -2994,7 +2994,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"HS_VNIR_5\" d=\"M253.4232843,333.0234825 L519.0298179,333.0234825 L519.0298179,544.2091055999999 L253.4232843,544.2091055999999 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M253.4232843,333.0234825 L519.0298179,333.0234825 L519.0298179,544.2091055999999 L253.4232843,544.2091055999999 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3037,7 +3037,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"HS_SWIR_5\" d=\"M257.7172523,331.3989777 L429.8768386,331.3989777 L429.8768386,545.0213579 L257.7172523,545.0213579 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M257.7172523,331.3989777 L429.8768386,331.3989777 L429.8768386,545.0213579 L257.7172523,545.0213579 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3080,7 +3080,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FTIR_05\" d=\"M396.9484488,346.6197286 L411.30401613,346.6197286 L411.30401613,362.98868015999994 L396.9484488,362.98868015999994 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M396.9484488,346.6197286 L411.30401613,346.6197286 L411.30401613,362.98868015999994 L396.9484488,362.98868015999994 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3111,7 +3111,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_07\" d=\"M460.3396496,343.6498349 L466.43216154199996,343.6498349 L466.43216154199996,351.049514688 L460.3396496,351.049514688 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M460.3396496,343.6498349 L466.43216154199996,343.6498349 L466.43216154199996,351.049514688 L460.3396496,351.049514688 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3154,7 +3154,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_06\" d=\"M467.7383229,390.8772029 L474.701193691,390.8772029 L474.701193691,397.841607406 L467.7383229,397.841607406 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M467.7383229,390.8772029 L474.701193691,390.8772029 L474.701193691,397.841607406 L467.7383229,397.841607406 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3197,7 +3197,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_05\" d=\"M301.064795,512.5366441 L305.851768669,512.5366441 L305.851768669,516.454121635 L301.064795,516.454121635 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M301.064795,512.5366441 L305.851768669,512.5366441 L305.851768669,516.454121635 L301.064795,516.454121635 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3240,7 +3240,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_04\" d=\"M329.5681367,511.0131807 L334.790289793,511.0131807 L334.790289793,514.495382953 L329.5681367,514.495382953 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M329.5681367,511.0131807 L334.790289793,511.0131807 L334.790289793,514.495382953 L329.5681367,514.495382953 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3283,7 +3283,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_03\" d=\"M352.8503317,359.1021074 L360.24838191500004,359.1021074 L360.24838191500004,365.848874266 L352.8503317,365.848874266 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M352.8503317,359.1021074 L360.24838191500004,359.1021074 L360.24838191500004,365.848874266 L352.8503317,365.848874266 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3326,7 +3326,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_02\" d=\"M303.0224314,463.1328997 L310.63807132700003,463.1328997 L310.63807132700003,470.96785477 L303.0224314,470.96785477 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M303.0224314,463.1328997 L310.63807132700003,463.1328997 L310.63807132700003,470.96785477 L303.0224314,470.96785477 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3369,7 +3369,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_01\" d=\"M330.4396937,483.8084756 L335.22666736900004,483.8084756 L335.22666736900004,488.814141339 L330.4396937,488.814141339 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4457\" height=\"6085\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M330.4396937,483.8084756 L335.22666736900004,483.8084756 L335.22666736900004,488.814141339 L330.4396937,488.814141339 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3471,7 +3471,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"HS_VNIR_6\" d=\"M414.4447586,127.5236262 L645.7390452,127.5236262 L645.7390452,523.0905432 L414.4447586,523.0905432 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M414.4447586,127.5236262 L645.7390452,127.5236262 L645.7390452,523.0905432 L414.4447586,523.0905432 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3514,7 +3514,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"HS_SWIR_6\" d=\"M438.6152208,129.148131 L602.8458154,129.148131 L602.8458154,516.5925241 L438.6152208,516.5925241 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M438.6152208,129.148131 L602.8458154,129.148131 L602.8458154,516.5925241 L438.6152208,516.5925241 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3557,7 +3557,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_06\" d=\"M339.0472495,655.6574157 L344.404936672,655.6574157 L344.404936672,661.284226378 L339.0472495,661.284226378 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M339.0472495,655.6574157 L344.404936672,655.6574157 L344.404936672,661.284226378 L339.0472495,661.284226378 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3600,7 +3600,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_05\" d=\"M318.0655767,664.2627853 L322.611725017,664.2627853 L322.611725017,668.809935 L318.0655767,668.809935 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M318.0655767,664.2627853 L322.611725017,664.2627853 L322.611725017,668.809935 L318.0655767,668.809935 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3643,7 +3643,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_04\" d=\"M467.018416,219.975735 L476.20597909,219.975735 L476.20597909,225.432052186 L467.018416,225.432052186 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M467.018416,219.975735 L476.20597909,219.975735 L476.20597909,225.432052186 L467.018416,225.432052186 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3686,7 +3686,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_03\" d=\"M469.0281954,419.5620742 L476.205979064,419.5620742 L476.205979064,423.869693031 L469.0281954,423.869693031 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M469.0281954,419.5620742 L476.205979064,419.5620742 L476.205979064,423.869693031 L469.0281954,423.869693031 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3729,7 +3729,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_02\" d=\"M528.4962255,497.9549222 L534.8063271540001,497.9549222 L534.8063271540001,503.613500861 L528.4962255,503.613500861 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M528.4962255,497.9549222 L534.8063271540001,497.9549222 L534.8063271540001,503.613500861 L528.4962255,503.613500861 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3772,7 +3772,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_01\" d=\"M525.5891307,314.7433493 L531.9055803240001,314.7433493 L531.9055803240001,320.774015664 L525.5891307,320.774015664 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4329\" height=\"6110\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M525.5891307,314.7433493 L531.9055803240001,314.7433493 L531.9055803240001,320.774015664 L525.5891307,320.774015664 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -3957,7 +3957,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/118",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4351\" height=\"6091\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FTIR_06\" d=\"M201.5904702,467.2196316 L226.31866073,467.2196316 L226.31866073,494.5025298 L201.5904702,494.5025298 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4351\" height=\"6091\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M201.5904702,467.2196316 L226.31866073,467.2196316 L226.31866073,494.5025298 L201.5904702,494.5025298 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -4000,7 +4000,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/118",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4351\" height=\"6091\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_20\" d=\"M205.8521946,467.2932297 L213.888725358,467.2932297 L213.888725358,476.13536076599996 L205.8521946,476.13536076599996 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4351\" height=\"6091\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M205.8521946,467.2932297 L213.888725358,467.2932297 L213.888725358,476.13536076599996 L205.8521946,476.13536076599996 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
@@ -4314,7 +4314,7 @@
                 "source": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/260",
                 "selector": {
                   "type": "SvgSelector",
-                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4197\" height=\"6060\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path id=\"FORS_21\" d=\"M202.6909039,135.3706126 L211.612082101,135.3706126 L211.612082101,142.552654747 L202.6909039,142.552654747 Z\" stroke=\"color\" fill-opacity=0 stroke-width=\"2px\"/></svg>"
+                  "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" width=\"4197\" height=\"6060\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path d=\"M202.6909039,135.3706126 L211.612082101,135.3706126 L211.612082101,142.552654747 L202.6909039,142.552654747 Z\" fill-opacity=\"0\" fill=\"#00f000\" stroke=\"color\" stroke-width=\"2\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\"/></svg>"
                 }
               }
             },
