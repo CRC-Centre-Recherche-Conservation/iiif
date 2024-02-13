@@ -100,9 +100,6 @@
       "format": "application/ld+json"
     }
   ],
-  "behavior": [
-    "paged"
-  ],
   "items": [
     {
       "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
@@ -142,7 +139,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Pb.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -168,7 +167,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Ni.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -194,7 +195,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Mn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -220,7 +223,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Cu.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -246,7 +251,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Zn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -272,7 +279,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_K.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -298,7 +307,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Ca.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -324,7 +335,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_S.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -350,7 +363,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Ti.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -376,7 +391,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Cl.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -402,7 +419,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Hg.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -428,7 +447,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_As.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -454,7 +475,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Br.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -480,7 +503,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Si.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -506,7 +531,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Fe.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -538,7 +565,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom-deconv_Ti-lim200.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -565,7 +594,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Ni.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -591,7 +622,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Ti.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -617,7 +650,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Cu.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -643,7 +678,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Ti.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -669,7 +706,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_As.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -695,7 +734,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Pb.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -721,7 +762,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Pb.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -747,7 +790,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_As.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -773,7 +818,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Ca.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -799,7 +846,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Si.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -825,7 +874,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Fe.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -851,7 +902,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Br.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -877,7 +930,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Hg.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -903,7 +958,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Zn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -929,7 +986,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Si.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -955,7 +1014,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Mn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -981,7 +1042,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map_data-Ms59-f1v-zoom_Br-lim255.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1008,7 +1071,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Cu.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1034,7 +1099,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Ni.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1060,7 +1127,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Hg.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1086,7 +1155,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Br.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1112,7 +1183,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom_Fe-lim255.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1139,7 +1212,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Zn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1165,7 +1240,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_K.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1191,7 +1268,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom-deconv_S-lim255.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1218,7 +1297,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom-deconv_As-lim255.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1245,7 +1326,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Cl.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1271,7 +1354,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Fe.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1297,7 +1382,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_S.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1323,7 +1410,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom-deconv_Cu-lim100.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1350,7 +1439,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map-data-Ms59-f1v-zoom-deconv_Pb-lim100.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1377,7 +1468,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_K.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1403,7 +1496,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Mn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1429,7 +1524,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Ca.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1455,7 +1552,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_S.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1481,7 +1580,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Cl.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1507,7 +1608,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Map_data-Ms59-f1v-zoom_S-lim255.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1540,7 +1643,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_1-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_1&Map_data-Ms59-f1v-deconv-Cu-lim100.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1605,7 +1710,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Cl.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1631,7 +1738,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Pb.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1657,7 +1766,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Si.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1683,7 +1794,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_sansHg-Cu.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1709,7 +1822,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_S.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1735,7 +1850,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_K.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1761,7 +1878,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Ni.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1787,7 +1906,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Ca.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1813,7 +1934,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Ti.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1839,7 +1962,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&Map_data-Ms59-f2-deconv-Cu-lim255.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1865,7 +1990,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Mn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1891,7 +2018,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Zn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1917,7 +2046,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&Map_data-Ms59-f2-deconv-Pb-lim20.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1943,7 +2074,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_As.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1969,7 +2102,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&Map_data-Ms59-f2-deconv-K-lim255.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -1995,7 +2130,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Cu.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2021,7 +2158,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Hg.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2047,7 +2186,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Fe.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2112,7 +2253,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Si.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2138,7 +2281,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Mn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2164,7 +2309,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Fe.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2190,7 +2337,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Ni.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2216,7 +2365,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_sansHg-Ni.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2242,7 +2393,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_S.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2268,7 +2421,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Map_data-Ms59-f13v-deconv-K-lim255.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2294,7 +2449,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_sansHg-Cu.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2320,7 +2477,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Cu.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2346,7 +2505,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_K.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2372,7 +2533,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Hg.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2398,7 +2561,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Zn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2424,7 +2589,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_As.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2450,7 +2617,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Pb.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2476,7 +2645,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_sansHg-K.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2502,7 +2673,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_sansHg-Zn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2528,7 +2701,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Cl.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2554,7 +2729,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Ca.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2580,7 +2757,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Ti.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2606,7 +2785,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Map_data-Ms59-f13v-deconv-Pb-lim50.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2671,7 +2852,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Mn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2697,7 +2880,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Hg.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2723,7 +2908,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Cu.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2749,7 +2936,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_sansHg-Zn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2775,7 +2964,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Zn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2801,7 +2992,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_As.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2827,7 +3020,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Si.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2853,7 +3048,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Ca.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2879,7 +3076,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_K.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2905,7 +3104,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Fe.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2931,7 +3132,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Map_data-Ms59-f31v-deconv-K-lim255.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2957,7 +3160,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Ti.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -2983,7 +3188,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Pb.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3009,7 +3216,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_S.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3035,7 +3244,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_sansHg-Cu.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3061,7 +3272,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Ni.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3087,7 +3300,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Cl.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3152,7 +3367,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Mn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3178,7 +3395,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_As.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3204,7 +3423,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Map_data-Ms59-f42-deconv-K-lim255.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3230,7 +3451,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Hg.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3256,7 +3479,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Cl.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3282,7 +3507,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Pb.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3308,7 +3535,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_S.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3334,7 +3563,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_K.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3360,7 +3591,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Fe.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3386,7 +3619,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Zn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3412,7 +3647,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Si.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3438,7 +3675,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Ca.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3464,7 +3703,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Cu.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3490,7 +3731,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Ti.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3516,7 +3759,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_sansHg-Zn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3542,7 +3787,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_sansHg-Cu.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3568,7 +3815,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Ni.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3633,7 +3882,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Si.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3659,7 +3910,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_As.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3685,7 +3938,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_K.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3711,7 +3966,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_S.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3737,7 +3994,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Ca.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3763,7 +4022,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Map_data-Ms59-f53v-deconv-K-lim255.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3789,7 +4050,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Fe.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3815,7 +4078,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Ni.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3841,7 +4106,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Mn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3867,7 +4134,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_sansHg-Zn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3893,7 +4162,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_sansHg-Cu.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3919,7 +4190,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Ti.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3945,7 +4218,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Hg.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3971,7 +4246,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Pb.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -3997,7 +4274,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Map_data-Ms59-f53v-deconv-Cu-lim255.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -4023,7 +4302,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Cu.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -4049,7 +4330,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Cl.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
@@ -4075,7 +4358,9 @@
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
               "type": "Annotation",
-              "motivation": "hiding",
+              "motivation": [
+                "supplementing"
+              ],
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Zn.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
