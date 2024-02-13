@@ -352,32 +352,6 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Video_1.tif/full/max/0/default.tif",
-                "type": "dctypes:Image",
-                "height": 311,
-                "width": 600,
-                "service": [
-                  {
-                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Video_1.tif",
-                    "type": "ImageService3",
-                    "profile": "level2"
-                  }
-                ],
-                "format": "image/tiff",
-                "label": {
-                  "fr": [
-                    "Méthodologie: Déconvolution",
-                    "Élement chimique: Soufre (S)"
-                  ]
-                }
-              },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#3322.5916657531666,14128.106580705467,730.67542366115,1007.2268130736977"
-            },
-            {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_3-main-images",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_3&MS59_f1V_zoomx-deconv_Ti.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
                 "height": 311,
@@ -905,32 +879,6 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Video_1.tif/full/max/0/default.tif",
-                "type": "dctypes:Image",
-                "height": 204,
-                "width": 431,
-                "service": [
-                  {
-                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Video_1.tif",
-                    "type": "ImageService3",
-                    "profile": "level2"
-                  }
-                ],
-                "format": "image/tiff",
-                "label": {
-                  "fr": [
-                    "Méthodologie: Déconvolution",
-                    "Élement chimique: Brome (Br)"
-                  ]
-                }
-              },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
-            },
-            {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_Hg.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
                 "height": 204,
@@ -1095,32 +1043,6 @@
                 "service": [
                   {
                     "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Ni.tif",
-                    "type": "ImageService3",
-                    "profile": "level2"
-                  }
-                ],
-                "format": "image/tiff",
-                "label": {
-                  "fr": [
-                    "Méthodologie: Déconvolution",
-                    "Élement chimique: Nickel (Ni)"
-                  ]
-                }
-              },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#2075.064857333643,19429.523199127452,3489.5944966313227,4504.952541203921"
-            },
-            {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_2-main-images",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Video_1.tif/full/max/0/default.tif",
-                "type": "dctypes:Image",
-                "height": 204,
-                "width": 431,
-                "service": [
-                  {
-                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_2&Ms59-f1v-zoom_deconv_Video_1.tif",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -2075,32 +1997,6 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Video_1.tif/full/max/0/default.tif",
-                "type": "dctypes:Image",
-                "height": 411,
-                "width": 270,
-                "service": [
-                  {
-                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Video_1.tif",
-                    "type": "ImageService3",
-                    "profile": "level2"
-                  }
-                ],
-                "format": "image/tiff",
-                "label": {
-                  "fr": [
-                    "Méthodologie: Déconvolution",
-                    "Limite (par coups): 255"
-                  ]
-                }
-              },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
-            },
-            {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59-f2t-deconv_Cu.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
                 "height": 411,
@@ -2147,32 +2043,6 @@
                 }
               },
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#492.9860628497408,7298.398057951338,3415.061799247408,4549.494841622384"
-            },
-            {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59_f2_map1_260mic_100ms_Video_Mosaic.tif/full/max/0/default.tif",
-                "type": "dctypes:Image",
-                "height": 1976,
-                "width": 1220,
-                "service": [
-                  {
-                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_4&MS59_f2_map1_260mic_100ms_Video_Mosaic.tif",
-                    "type": "ImageService3",
-                    "profile": "level2"
-                  }
-                ],
-                "format": "image/tiff",
-                "label": {
-                  "fr": [
-                    "Méthodologie: Déconvolution",
-                    "Élement chimique: Mercure (Hg)"
-                  ]
-                }
-              },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#109.10347292576229,1518.0372478836032,755.7923654072132,946.27650805"
             },
             {
               "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_4-main-images",
@@ -2381,32 +2251,6 @@
                 "service": [
                   {
                     "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_S.tif",
-                    "type": "ImageService3",
-                    "profile": "level2"
-                  }
-                ],
-                "format": "image/tiff",
-                "label": {
-                  "fr": [
-                    "Méthodologie: Déconvolution",
-                    "Élement chimique: Soufre (S)"
-                  ]
-                }
-              },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#3287.296796056,722.4322358020532,1340.10892652,1899.2976518769574"
-            },
-            {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_5-main-images",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Video_1.tif/full/max/0/default.tif",
-                "type": "dctypes:Image",
-                "height": 677,
-                "width": 600,
-                "service": [
-                  {
-                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_5&Ms59-f13v_deconv_Video_1.tif",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -3245,32 +3089,6 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Video_1.tif/full/max/0/default.tif",
-                "type": "dctypes:Image",
-                "height": 502,
-                "width": 330,
-                "service": [
-                  {
-                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Video_1.tif",
-                    "type": "ImageService3",
-                    "profile": "level2"
-                  }
-                ],
-                "format": "image/tiff",
-                "label": {
-                  "fr": [
-                    "Méthodologie: Déconvolution",
-                    "Élement chimique: Nickel (Ni)"
-                  ]
-                }
-              },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#2093.1654461151516,3992.10726550996,3128.820840712121,4563.8164543306775"
-            },
-            {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_6-main-images",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_6&Ms59-f31v_deconv_Cl.tif/full/max/0/default.tif",
                 "type": "dctypes:Image",
                 "height": 502,
@@ -3421,32 +3239,6 @@
                 "service": [
                   {
                     "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Hg.tif",
-                    "type": "ImageService3",
-                    "profile": "level2"
-                  }
-                ],
-                "format": "image/tiff",
-                "label": {
-                  "fr": [
-                    "Méthodologie: Déconvolution",
-                    "Élement chimique: Mercure (Hg)"
-                  ]
-                }
-              },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3353.163914875224,7551.637348946096,3435.740043079104,4740.443884221189"
-            },
-            {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_7-main-images",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Video_1.tif/full/max/0/default.tif",
-                "type": "dctypes:Image",
-                "height": 269,
-                "width": 335,
-                "service": [
-                  {
-                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_7&Ms59-f42_deconv_Video_1.tif",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
@@ -3954,32 +3746,6 @@
                 "service": [
                   {
                     "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Ca.tif",
-                    "type": "ImageService3",
-                    "profile": "level2"
-                  }
-                ],
-                "format": "image/tiff",
-                "label": {
-                  "fr": [
-                    "Méthodologie: Déconvolution",
-                    "Élement chimique: Calcium (Ca)"
-                  ]
-                }
-              },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#3019.514485533,718.4176479783694,1300.7225196225002,1907.5227199509152"
-            },
-            {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/sXRF_8-main-images",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Video_1.tif/full/max/0/default.tif",
-                "type": "dctypes:Image",
-                "height": 1202,
-                "width": 600,
-                "service": [
-                  {
-                    "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FsXRF_8&Ms59-f53v_deconv_Video_1.tif",
                     "type": "ImageService3",
                     "profile": "level2"
                   }
