@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://192.168.122.28:8183/iiif/iiif/manifest/Avranches_BM_59_CRC_HS_SWIR.json",
+  "id": "https://192.168.122.28:8183/iiif/manifest/Avranches_BM_59_CRC_HS_SWIR.json",
   "type": "Manifest",
   "label": {
     "fr": [
@@ -100,9 +100,6 @@
       "format": "application/ld+json"
     }
   ],
-  "behavior": [
-    "paged"
-  ],
   "items": [
     {
       "id": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10",
@@ -116,11 +113,11 @@
       "width": 4429,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p9/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p9/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_1-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_1-main-images",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -140,12 +137,12 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_1-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_1-alt-images-bleu-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_1&Ms59-f1v-SWIR-mosaique_mtmf_rule_bleu.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 1439,
                 "width": 1085,
                 "service": [
@@ -158,19 +155,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: bleu\nAggrégation de pixels: Non"
+                    "Spectre de référence: bleu | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#778.3739812661751,337.92470712150106,2128.3922306535483,3090.4750489974986"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=1158,486,3168,4447"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_1-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_1-alt-images-jaune-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_1&Ms59-f1v-SWIR-mosaique_sam_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 1439,
                 "width": 1085,
                 "service": [
@@ -183,19 +180,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: jaune\nAggrégation de pixels: Non"
+                    "Spectre de référence: jaune | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#778.3739812661751,337.92470712150106,2128.3922306535483,3090.4750489974986"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=1158,486,3168,4447"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_1-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_1-alt-images-jaune-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_1&Ms59-f1v-SWIR-mosaique_unmix_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 1439,
                 "width": 1085,
                 "service": [
@@ -208,19 +205,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: jaune\nAggrégation de pixels: Non"
+                    "Spectre de référence: jaune | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#778.3739812661751,337.92470712150106,2128.3922306535483,3090.4750489974986"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=1158,486,3168,4447"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_1-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_1-alt-images-1&ms59-f1v-swir-mosaique-rgb",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_1&Ms59-f1v-SWIR-mosaique-RGB.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 1852,
                 "width": 1500,
                 "service": [
@@ -233,19 +230,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: 1&ms59 f1v swir mosaique rgb\nCouleur: RGB\nAggrégation de pixels: Non"
+                    "Spectre de référence: 1&ms59 f1v swir mosaique rgb | Couleur: RGB | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#563.0238464491999,262.5667675744276,1539.5370468393999,2401.2924381789417"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=1158,486,3168,4447"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_1-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_1-alt-images-parchemin-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_1&Ms59-f1v-SWIR-mosaique_unmix_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 1439,
                 "width": 1085,
                 "service": [
@@ -258,19 +255,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: parchemin\nAggrégation de pixels: Non"
+                    "Spectre de référence: parchemin | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#778.3739812661751,337.92470712150106,2128.3922306535483,3090.4750489974986"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=1158,486,3168,4447"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_1-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_1-alt-images-encre-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_1&Ms59-f1v-SWIR-mosaique_mtmf_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 1439,
                 "width": 1085,
                 "service": [
@@ -283,19 +280,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: encre\nAggrégation de pixels: Non"
+                    "Spectre de référence: encre | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#778.3739812661751,337.92470712150106,2128.3922306535483,3090.4750489974986"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=1158,486,3168,4447"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_1-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_1-alt-images-bleu-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_1&Ms59-f1v-SWIR-mosaique_sam_rule_bleu.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 1439,
                 "width": 1085,
                 "service": [
@@ -308,19 +305,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: bleu\nAggrégation de pixels: Non"
+                    "Spectre de référence: bleu | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#778.3739812661751,337.92470712150106,2128.3922306535483,3090.4750489974986"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=1158,486,3168,4447"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_1-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_1-alt-images-bleu-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_1&Ms59-f1v-SWIR-mosaique_unmix_rule_bleu.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 1439,
                 "width": 1085,
                 "service": [
@@ -333,19 +330,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: bleu\nAggrégation de pixels: Non"
+                    "Spectre de référence: bleu | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#778.3739812661751,337.92470712150106,2128.3922306535483,3090.4750489974986"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=1158,486,3168,4447"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_1-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_1-alt-images-parchemin-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_1&Ms59-f1v-SWIR-mosaique_sam_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 1439,
                 "width": 1085,
                 "service": [
@@ -358,19 +355,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: parchemin\nAggrégation de pixels: Non"
+                    "Spectre de référence: parchemin | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#778.3739812661751,337.92470712150106,2128.3922306535483,3090.4750489974986"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=1158,486,3168,4447"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_1-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_1-alt-images-parchemin-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_1&Ms59-f1v-SWIR-mosaique_mtmf_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 1439,
                 "width": 1085,
                 "service": [
@@ -383,19 +380,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: parchemin\nAggrégation de pixels: Non"
+                    "Spectre de référence: parchemin | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#778.3739812661751,337.92470712150106,2128.3922306535483,3090.4750489974986"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=1158,486,3168,4447"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_1-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_1-alt-images-encre-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_1&Ms59-f1v-SWIR-mosaique_sam_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 1439,
                 "width": 1085,
                 "service": [
@@ -408,19 +405,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: encre\nAggrégation de pixels: Non"
+                    "Spectre de référence: encre | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#778.3739812661751,337.92470712150106,2128.3922306535483,3090.4750489974986"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=1158,486,3168,4447"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_1-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_1-alt-images-violet-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_1&Ms59-f1v-SWIR-mosaique_sam_rule_violet.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 1439,
                 "width": 1085,
                 "service": [
@@ -433,19 +430,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: violet\nAggrégation de pixels: Non"
+                    "Spectre de référence: violet | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#778.3739812661751,337.92470712150106,2128.3922306535483,3090.4750489974986"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=1158,486,3168,4447"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_1-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_1-alt-images-encre-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_1&Ms59-f1v-SWIR-mosaique_unmix_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 1439,
                 "width": 1085,
                 "service": [
@@ -458,19 +455,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: encre\nAggrégation de pixels: Non"
+                    "Spectre de référence: encre | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#778.3739812661751,337.92470712150106,2128.3922306535483,3090.4750489974986"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=1158,486,3168,4447"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_1-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_1-alt-images-violet-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_1&Ms59-f1v-SWIR-mosaique_unmix_rule_violet.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 1439,
                 "width": 1085,
                 "service": [
@@ -483,19 +480,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: violet\nAggrégation de pixels: Non"
+                    "Spectre de référence: violet | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#778.3739812661751,337.92470712150106,2128.3922306535483,3090.4750489974986"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=1158,486,3168,4447"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_1-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_1-alt-images-violet-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_1&Ms59-f1v-SWIR-mosaique_mtmf_rule_violet.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 1439,
                 "width": 1085,
                 "service": [
@@ -508,19 +505,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: violet\nAggrégation de pixels: Non"
+                    "Spectre de référence: violet | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#778.3739812661751,337.92470712150106,2128.3922306535483,3090.4750489974986"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=1158,486,3168,4447"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_1-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_1-alt-images-jaune-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_1&Ms59-f1v-SWIR-mosaique_mtmf_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 1439,
                 "width": 1085,
                 "service": [
@@ -533,11 +530,11 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: jaune\nAggrégation de pixels: Non"
+                    "Spectre de référence: jaune | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#778.3739812661751,337.92470712150106,2128.3922306535483,3090.4750489974986"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/10#xywh=1158,486,3168,4447"
             }
           ]
         }
@@ -555,11 +552,11 @@
       "width": 4429,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p23/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p23/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-main-images",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -579,12 +576,12 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-blancpb-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_refl_mtmf_rule_blancpb.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 894,
                 "width": 320,
                 "service": [
@@ -597,19 +594,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: blancpb\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: blancpb | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#788.7310646946249,2622.301028747427,2241.2234718296877,2754.9769734096194"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-pb",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_continuum_removal-61-115-1-s-unmix_blanc_pb.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 784,
                 "width": 320,
                 "service": [
@@ -622,19 +619,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: pb\nObjectif (mm): 56\nAggrégation de pixels: Non\nSoustraction de la ligne de base: Entre 61 et 115 (spectres rendus positifs)."
+                    "Distance (objet/objectif): 43 | Spectre de référence: pb | Objectif (mm): 56 | Aggrégation de pixels: Non | Soustraction de la ligne de base: Entre 61 et 115 (spectres rendus positifs)."
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#788.7310646946249,2990.225917984949,2241.2234718296877,3141.517109984949"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-encre-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_refl_unmix_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 894,
                 "width": 320,
                 "service": [
@@ -647,19 +644,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: encre\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: encre | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#788.7310646946249,2622.301028747427,2241.2234718296877,2754.9769734096194"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-encre-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_refl_mtmf_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 894,
                 "width": 320,
                 "service": [
@@ -672,19 +669,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: encre\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: encre | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#788.7310646946249,2622.301028747427,2241.2234718296877,2754.9769734096194"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-orange-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_refl_unmix_rule_orange.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 894,
                 "width": 320,
                 "service": [
@@ -697,19 +694,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: orange\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: orange | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#788.7310646946249,2622.301028747427,2241.2234718296877,2754.9769734096194"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-blancpb-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_refl_sam_rule_blancpb.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 894,
                 "width": 320,
                 "service": [
@@ -722,19 +719,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: blancpb\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: blancpb | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#788.7310646946249,2622.301028747427,2241.2234718296877,2754.9769734096194"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-encre-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_refl_sam_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 894,
                 "width": 320,
                 "service": [
@@ -747,19 +744,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: encre\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: encre | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#788.7310646946249,2622.301028747427,2241.2234718296877,2754.9769734096194"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-orange-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_refl_sam_rule_orange.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 894,
                 "width": 320,
                 "service": [
@@ -772,19 +769,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: orange\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: orange | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#788.7310646946249,2622.301028747427,2241.2234718296877,2754.9769734096194"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-parchemin-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_refl_unmix_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 894,
                 "width": 320,
                 "service": [
@@ -797,19 +794,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: parchemin\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: parchemin | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#788.7310646946249,2622.301028747427,2241.2234718296877,2754.9769734096194"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-orange-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_refl_mtmf_rule_orange.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 894,
                 "width": 320,
                 "service": [
@@ -822,19 +819,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: orange\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: orange | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#788.7310646946249,2622.301028747427,2241.2234718296877,2754.9769734096194"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-rouge-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_refl_sam_rule_rouge.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 894,
                 "width": 320,
                 "service": [
@@ -847,19 +844,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: rouge\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: rouge | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#788.7310646946249,2622.301028747427,2241.2234718296877,2754.9769734096194"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-rouge-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_refl_mtmf_rule_rouge.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 894,
                 "width": 320,
                 "service": [
@@ -872,19 +869,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: rouge\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: rouge | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#788.7310646946249,2622.301028747427,2241.2234718296877,2754.9769734096194"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-rouge-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_refl_unmix_rule_rouge.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 894,
                 "width": 320,
                 "service": [
@@ -897,19 +894,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: rouge\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: rouge | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#788.7310646946249,2622.301028747427,2241.2234718296877,2754.9769734096194"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-pb",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_continuum_removal-61-115-1-s-MTMF_blanc_pb.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 784,
                 "width": 320,
                 "service": [
@@ -922,19 +919,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: pb\nObjectif (mm): 56\nAggrégation de pixels: Non\nSoustraction de la ligne de base: Entre 61 et 115 (spectres rendus positifs)."
+                    "Distance (objet/objectif): 43 | Spectre de référence: pb | Objectif (mm): 56 | Aggrégation de pixels: Non | Soustraction de la ligne de base: Entre 61 et 115 (spectres rendus positifs)."
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#788.7310646946249,2990.225917984949,2241.2234718296877,3141.517109984949"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-parchemin-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_refl_sam_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 894,
                 "width": 320,
                 "service": [
@@ -947,19 +944,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: parchemin\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: parchemin | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#788.7310646946249,2622.301028747427,2241.2234718296877,2754.9769734096194"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-blancpb-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_refl_unmix_rule_blancpb.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 894,
                 "width": 320,
                 "service": [
@@ -972,19 +969,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: blancpb\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: blancpb | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#788.7310646946249,2622.301028747427,2241.2234718296877,2754.9769734096194"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-parchemin-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_refl_mtmf_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 894,
                 "width": 320,
                 "service": [
@@ -997,19 +994,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: parchemin\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: parchemin | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#788.7310646946249,2622.301028747427,2241.2234718296877,2754.9769734096194"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-blancpb_AggregPx",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_pixel_aggregate-continuum_removal-61-115-1-s-MTMF-rule_Blancpb.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 395,
                 "width": 154,
                 "service": [
@@ -1022,19 +1019,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: blancpb\nObjectif (mm): 56\nAggrégation de pixels: Oui\nSoustraction de la ligne de base: Entre 61 et 115 (spectres rendus positifs)."
+                    "Distance (objet/objectif): 43 | Spectre de référence: blancpb | Objectif (mm): 56 | Aggrégation de pixels: Oui | Soustraction de la ligne de base: Entre 61 et 115 (spectres rendus positifs)."
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#1638.921692871948,5935.0306827853165,4657.087733672078,6235.31497272962"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_2-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_2-alt-images-blancpb_AggregPx",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_2&Ms59-f2-obj56-frame100-dist43-SWIR-1_pixel_aggregate-continuum_removal-61-115-1-s-unmix-rule_blancpb.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 395,
                 "width": 154,
                 "service": [
@@ -1047,11 +1044,11 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: blancpb\nObjectif (mm): 56\nAggrégation de pixels: Oui\nSoustraction de la ligne de base: Entre 61 et 115 (spectres rendus positifs)."
+                    "Distance (objet/objectif): 43 | Spectre de référence: blancpb | Objectif (mm): 56 | Aggrégation de pixels: Oui | Soustraction de la ligne de base: Entre 61 et 115 (spectres rendus positifs)."
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#1638.921692871948,5935.0306827853165,4657.087733672078,6235.31497272962"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/11#xywh=346,2344,984,2463"
             }
           ]
         }
@@ -1069,11 +1066,11 @@
       "width": 4368,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p28/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p28/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_3-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_3-main-images",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -1093,12 +1090,12 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_3-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_3-alt-images-rouge-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_3&Ms59-f13v-SWIR-mosaique_sam_rule_rouge.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 387,
                 "width": 432,
                 "service": [
@@ -1111,19 +1108,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: rouge\nAggrégation de pixels: Non"
+                    "Spectre de référence: rouge | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#4587.171574844445,1359.6693684672869,2181.567409233333,3084.4796269"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=2741,526,1304,1194"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_3-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_3-alt-images-parchemin-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_3&Ms59-f13v-SWIR-mosaique_unmix_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 387,
                 "width": 432,
                 "service": [
@@ -1136,19 +1133,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: parchemin\nAggrégation de pixels: Non"
+                    "Spectre de référence: parchemin | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#4587.171574844445,1359.6693684672869,2181.567409233333,3084.4796269"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=2741,526,1304,1194"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_3-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_3-alt-images-bleu-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_3&Ms59-f13v-SWIR-mosaique_sam_rule_bleu.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 387,
                 "width": 432,
                 "service": [
@@ -1161,19 +1158,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: bleu\nAggrégation de pixels: Non"
+                    "Spectre de référence: bleu | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#4587.171574844445,1359.6693684672869,2181.567409233333,3084.4796269"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=2741,526,1304,1194"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_3-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_3-alt-images-parchemin-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_3&Ms59-f13v-SWIR-mosaique_sam_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 387,
                 "width": 432,
                 "service": [
@@ -1186,19 +1183,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: parchemin\nAggrégation de pixels: Non"
+                    "Spectre de référence: parchemin | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#4587.171574844445,1359.6693684672869,2181.567409233333,3084.4796269"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=2741,526,1304,1194"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_3-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_3-alt-images-jaune-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_3&Ms59-f13v-SWIR-mosaique_unmix_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 387,
                 "width": 432,
                 "service": [
@@ -1211,19 +1208,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: jaune\nAggrégation de pixels: Non"
+                    "Spectre de référence: jaune | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#4587.171574844445,1359.6693684672869,2181.567409233333,3084.4796269"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=2741,526,1304,1194"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_3-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_3-alt-images-parchemin-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_3&Ms59-f13v-SWIR-mosaique_mtmf_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 387,
                 "width": 432,
                 "service": [
@@ -1236,19 +1233,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: parchemin\nAggrégation de pixels: Non"
+                    "Spectre de référence: parchemin | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#4587.171574844445,1359.6693684672869,2181.567409233333,3084.4796269"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=2741,526,1304,1194"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_3-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_3-alt-images-encre-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_3&Ms59-f13v-SWIR-mosaique_sam_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 387,
                 "width": 432,
                 "service": [
@@ -1261,19 +1258,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: encre\nAggrégation de pixels: Non"
+                    "Spectre de référence: encre | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#4587.171574844445,1359.6693684672869,2181.567409233333,3084.4796269"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=2741,526,1304,1194"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_3-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_3-alt-images-encre-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_3&Ms59-f13v-SWIR-mosaique_mtmf_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 387,
                 "width": 432,
                 "service": [
@@ -1286,19 +1283,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: encre\nAggrégation de pixels: Non"
+                    "Spectre de référence: encre | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#4587.171574844445,1359.6693684672869,2181.567409233333,3084.4796269"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=2741,526,1304,1194"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_3-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_3-alt-images-encre-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_3&Ms59-f13v-SWIR-mosaique_unmix_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 387,
                 "width": 432,
                 "service": [
@@ -1311,19 +1308,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: encre\nAggrégation de pixels: Non"
+                    "Spectre de référence: encre | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#4587.171574844445,1359.6693684672869,2181.567409233333,3084.4796269"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=2741,526,1304,1194"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_3-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_3-alt-images-jaune-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_3&Ms59-f13v-SWIR-mosaique_sam_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 387,
                 "width": 432,
                 "service": [
@@ -1336,19 +1333,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: jaune\nAggrégation de pixels: Non"
+                    "Spectre de référence: jaune | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#4587.171574844445,1359.6693684672869,2181.567409233333,3084.4796269"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=2741,526,1304,1194"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_3-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_3-alt-images-bleu-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_3&Ms59-f13v-SWIR-mosaique_mtmf_rule_bleu.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 387,
                 "width": 432,
                 "service": [
@@ -1361,19 +1358,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: bleu\nAggrégation de pixels: Non"
+                    "Spectre de référence: bleu | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#4587.171574844445,1359.6693684672869,2181.567409233333,3084.4796269"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=2741,526,1304,1194"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_3-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_3-alt-images-rouge-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_3&Ms59-f13v-SWIR-mosaique_unmix_rule_rouge.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 387,
                 "width": 432,
                 "service": [
@@ -1386,19 +1383,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: rouge\nAggrégation de pixels: Non"
+                    "Spectre de référence: rouge | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#4587.171574844445,1359.6693684672869,2181.567409233333,3084.4796269"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=2741,526,1304,1194"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_3-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_3-alt-images-rouge-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_3&Ms59-f13v-SWIR-mosaique_mtmf_rule_rouge.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 387,
                 "width": 432,
                 "service": [
@@ -1411,19 +1408,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: rouge\nAggrégation de pixels: Non"
+                    "Spectre de référence: rouge | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#4587.171574844445,1359.6693684672869,2181.567409233333,3084.4796269"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=2741,526,1304,1194"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_3-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_3-alt-images-bleu-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_3&Ms59-f13v-SWIR-mosaique_unmix_rule_bleu.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 387,
                 "width": 432,
                 "service": [
@@ -1436,19 +1433,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: bleu\nAggrégation de pixels: Non"
+                    "Spectre de référence: bleu | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#4587.171574844445,1359.6693684672869,2181.567409233333,3084.4796269"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=2741,526,1304,1194"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_3-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_3-alt-images-jaune-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_3&Ms59-f13v-SWIR-mosaique_mtmf_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 387,
                 "width": 432,
                 "service": [
@@ -1461,11 +1458,11 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: jaune\nAggrégation de pixels: Non"
+                    "Spectre de référence: jaune | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#4587.171574844445,1359.6693684672869,2181.567409233333,3084.4796269"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/34#xywh=2741,526,1304,1194"
             }
           ]
         }
@@ -1483,11 +1480,11 @@
       "width": 4310,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p31/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p31/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_VNIR_4-main-images",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -1507,12 +1504,12 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_VNIR_4-alt-images-parchemin-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_4&Ms59-f31v-obj23-frame100-1_refl_sam_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 968,
                 "width": 694,
                 "service": [
@@ -1525,19 +1522,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: parchemin\nAggrégation de pixels: Non"
+                    "Spectre de référence: parchemin | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1030.6121838256483,2054.951572751653,1512.9842388919308,2341.2134834400827"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=1012,1989,1485,2266"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_VNIR_4-alt-images-rouge-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_4&Ms59-f31v-obj23-frame100-1_refl_sam_rule_rouge.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 968,
                 "width": 694,
                 "service": [
@@ -1550,19 +1547,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: rouge\nAggrégation de pixels: Non"
+                    "Spectre de référence: rouge | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1030.6121838256483,2054.951572751653,1512.9842388919308,2341.2134834400827"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=1012,1989,1485,2266"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_VNIR_4-alt-images-encre-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_4&Ms59-f31v-obj23-frame100-1_refl_unmix_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 968,
                 "width": 694,
                 "service": [
@@ -1575,19 +1572,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: encre\nAggrégation de pixels: Non"
+                    "Spectre de référence: encre | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1030.6121838256483,2054.951572751653,1512.9842388919308,2341.2134834400827"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=1012,1989,1485,2266"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_VNIR_4-alt-images-jaune-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_4&Ms59-f31v-obj23-frame100-1_refl_unmix_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 968,
                 "width": 694,
                 "service": [
@@ -1600,19 +1597,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: jaune\nAggrégation de pixels: Non"
+                    "Spectre de référence: jaune | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1030.6121838256483,2054.951572751653,1512.9842388919308,2341.2134834400827"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=1012,1989,1485,2266"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_VNIR_4-alt-images-rouge-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_4&Ms59-f31v-obj23-frame100-1_refl_unmix_rule_rouge.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 968,
                 "width": 694,
                 "service": [
@@ -1625,19 +1622,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: rouge\nAggrégation de pixels: Non"
+                    "Spectre de référence: rouge | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1030.6121838256483,2054.951572751653,1512.9842388919308,2341.2134834400827"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=1012,1989,1485,2266"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_VNIR_4-alt-images-encre-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_4&Ms59-f31v-obj23-frame100-1_refl_mtmf_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 968,
                 "width": 694,
                 "service": [
@@ -1650,19 +1647,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: encre\nAggrégation de pixels: Non"
+                    "Spectre de référence: encre | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1030.6121838256483,2054.951572751653,1512.9842388919308,2341.2134834400827"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=1012,1989,1485,2266"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_VNIR_4-alt-images-bleu-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_4&Ms59-f31v-obj23-frame100-1_refl_mtmf_rule_bleu.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 968,
                 "width": 694,
                 "service": [
@@ -1675,19 +1672,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: bleu\nAggrégation de pixels: Non"
+                    "Spectre de référence: bleu | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1030.6121838256483,2054.951572751653,1512.9842388919308,2341.2134834400827"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=1012,1989,1485,2266"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_VNIR_4-alt-images-bleu-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_4&Ms59-f31v-obj23-frame100-1_refl_unmix_rule_bleu.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 968,
                 "width": 694,
                 "service": [
@@ -1700,19 +1697,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: bleu\nAggrégation de pixels: Non"
+                    "Spectre de référence: bleu | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1030.6121838256483,2054.951572751653,1512.9842388919308,2341.2134834400827"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=1012,1989,1485,2266"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_VNIR_4-alt-images-encre-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_4&Ms59-f31v-obj23-frame100-1_refl_sam_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 968,
                 "width": 694,
                 "service": [
@@ -1725,19 +1722,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: encre\nAggrégation de pixels: Non"
+                    "Spectre de référence: encre | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1030.6121838256483,2054.951572751653,1512.9842388919308,2341.2134834400827"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=1012,1989,1485,2266"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_VNIR_4-alt-images-bleu-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_4&Ms59-f31v-obj23-frame100-1_refl_sam_rule_bleu.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 968,
                 "width": 694,
                 "service": [
@@ -1750,19 +1747,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: bleu\nAggrégation de pixels: Non"
+                    "Spectre de référence: bleu | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1030.6121838256483,2054.951572751653,1512.9842388919308,2341.2134834400827"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=1012,1989,1485,2266"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_VNIR_4-alt-images-parchemin-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_4&Ms59-f31v-obj23-frame100-1_refl_unmix_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 968,
                 "width": 694,
                 "service": [
@@ -1775,19 +1772,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: parchemin\nAggrégation de pixels: Non"
+                    "Spectre de référence: parchemin | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1030.6121838256483,2054.951572751653,1512.9842388919308,2341.2134834400827"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=1012,1989,1485,2266"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_VNIR_4-alt-images-jaune-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_4&Ms59-f31v-obj23-frame100-1_refl_sam_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 968,
                 "width": 694,
                 "service": [
@@ -1800,19 +1797,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: jaune\nAggrégation de pixels: Non"
+                    "Spectre de référence: jaune | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1030.6121838256483,2054.951572751653,1512.9842388919308,2341.2134834400827"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=1012,1989,1485,2266"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_VNIR_4-alt-images-jaune-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_4&Ms59-f31v-obj23-frame100-1_refl_mtmf_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 968,
                 "width": 694,
                 "service": [
@@ -1825,19 +1822,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: jaune\nAggrégation de pixels: Non"
+                    "Spectre de référence: jaune | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1030.6121838256483,2054.951572751653,1512.9842388919308,2341.2134834400827"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=1012,1989,1485,2266"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_VNIR_4-alt-images-rouge-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_4&Ms59-f31v-obj23-frame100-1_refl_mtmf_rule_rouge.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 968,
                 "width": 694,
                 "service": [
@@ -1850,19 +1847,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: rouge\nAggrégation de pixels: Non"
+                    "Spectre de référence: rouge | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1030.6121838256483,2054.951572751653,1512.9842388919308,2341.2134834400827"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=1012,1989,1485,2266"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_VNIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_VNIR_4-alt-images-parchemin-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_VNIR_4&Ms59-f31v-obj23-frame100-1_refl_mtmf_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 968,
                 "width": 694,
                 "service": [
@@ -1875,25 +1872,25 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: parchemin\nAggrégation de pixels: Non"
+                    "Spectre de référence: parchemin | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1030.6121838256483,2054.951572751653,1512.9842388919308,2341.2134834400827"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=1012,1989,1485,2266"
             }
           ]
         },
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p32/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p32/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-parchemin-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_mtmf_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 769,
                 "width": 513,
                 "service": [
@@ -1906,19 +1903,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: parchemin\nAggrégation de pixels: Non"
+                    "Spectre de référence: parchemin | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1351.2115287641327,2387.253098553966,2026.768451520468,3114.3679239292587"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-jaune-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_sam_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 769,
                 "width": 513,
                 "service": [
@@ -1931,19 +1928,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: jaune\nAggrégation de pixels: Non"
+                    "Spectre de référence: jaune | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1351.2115287641327,2387.253098553966,2026.768451520468,3114.3679239292587"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-rouge-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_sam_rule_rouge.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 769,
                 "width": 513,
                 "service": [
@@ -1956,19 +1953,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: rouge\nAggrégation de pixels: Non"
+                    "Spectre de référence: rouge | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1351.2115287641327,2387.253098553966,2026.768451520468,3114.3679239292587"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-parchemin-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_unmix_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 769,
                 "width": 513,
                 "service": [
@@ -1981,19 +1978,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: parchemin\nAggrégation de pixels: Non"
+                    "Spectre de référence: parchemin | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1351.2115287641327,2387.253098553966,2026.768451520468,3114.3679239292587"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-encre-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_sam_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 769,
                 "width": 513,
                 "service": [
@@ -2006,19 +2003,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: encre\nAggrégation de pixels: Non"
+                    "Spectre de référence: encre | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1351.2115287641327,2387.253098553966,2026.768451520468,3114.3679239292587"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-parchemin-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_sam_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 769,
                 "width": 513,
                 "service": [
@@ -2031,19 +2028,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: parchemin\nAggrégation de pixels: Non"
+                    "Spectre de référence: parchemin | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1351.2115287641327,2387.253098553966,2026.768451520468,3114.3679239292587"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-rouge-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_mtmf_rule_rouge.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 769,
                 "width": 513,
                 "service": [
@@ -2056,19 +2053,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: rouge\nAggrégation de pixels: Non"
+                    "Spectre de référence: rouge | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1351.2115287641327,2387.253098553966,2026.768451520468,3114.3679239292587"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-bleu-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_sam_rule_bleu.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 769,
                 "width": 513,
                 "service": [
@@ -2081,19 +2078,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: bleu\nAggrégation de pixels: Non"
+                    "Spectre de référence: bleu | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1351.2115287641327,2387.253098553966,2026.768451520468,3114.3679239292587"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-encre-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_unmix_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 769,
                 "width": 513,
                 "service": [
@@ -2106,19 +2103,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: encre\nAggrégation de pixels: Non"
+                    "Spectre de référence: encre | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1351.2115287641327,2387.253098553966,2026.768451520468,3114.3679239292587"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-jaune-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_mtmf_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 769,
                 "width": 513,
                 "service": [
@@ -2131,19 +2128,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: jaune\nAggrégation de pixels: Non"
+                    "Spectre de référence: jaune | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1351.2115287641327,2387.253098553966,2026.768451520468,3114.3679239292587"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-jaune-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_unmix_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 769,
                 "width": 513,
                 "service": [
@@ -2156,19 +2153,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: jaune\nAggrégation de pixels: Non"
+                    "Spectre de référence: jaune | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1351.2115287641327,2387.253098553966,2026.768451520468,3114.3679239292587"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-blanc-contraste",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_kubelkamunk-unmix-rule_sp_blanc-contraste.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 808,
                 "width": 502,
                 "service": [
@@ -2181,19 +2178,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: blanc contraste\nAggrégation de pixels: Non"
+                    "Spectre de référence: blanc contraste | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1380.8197495139443,2272.0267732524753,2071.1797124103587,2964.0457097792078"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-kubelkamunk-rgb",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_kubelkamunk-RGB.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 808,
                 "width": 502,
                 "service": [
@@ -2206,19 +2203,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: kubelkamunk rgb\nCouleur: RGB\nAggrégation de pixels: Non"
+                    "Spectre de référence: kubelkamunk rgb | Couleur: RGB | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1380.8197495139443,2272.0267732524753,2071.1797124103587,2964.0457097792078"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-bleu-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_unmix_rule_bleu.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 769,
                 "width": 513,
                 "service": [
@@ -2231,19 +2228,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: bleu\nAggrégation de pixels: Non"
+                    "Spectre de référence: bleu | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1351.2115287641327,2387.253098553966,2026.768451520468,3114.3679239292587"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-blanc",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_kubelkamunk-unmix-rule_sp_blanc.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 808,
                 "width": 502,
                 "service": [
@@ -2256,19 +2253,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: blanc\nAggrégation de pixels: Non"
+                    "Spectre de référence: blanc | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1380.8197495139443,2272.0267732524753,2071.1797124103587,2964.0457097792078"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-rouge-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_unmix_rule_rouge.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 769,
                 "width": 513,
                 "service": [
@@ -2281,19 +2278,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: rouge\nAggrégation de pixels: Non"
+                    "Spectre de référence: rouge | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1351.2115287641327,2387.253098553966,2026.768451520468,3114.3679239292587"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-encre-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_mtmf_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 769,
                 "width": 513,
                 "service": [
@@ -2306,19 +2303,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: encre\nAggrégation de pixels: Non"
+                    "Spectre de référence: encre | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1351.2115287641327,2387.253098553966,2026.768451520468,3114.3679239292587"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_4-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_4-alt-images-bleu-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_4&Ms59-f31v-SWIR-mosaique_mtmf_rule_bleu.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 769,
                 "width": 513,
                 "service": [
@@ -2331,11 +2328,11 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Spectre de référence: bleu\nAggrégation de pixels: Non"
+                    "Spectre de référence: bleu | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#1351.2115287641327,2387.253098553966,2026.768451520468,3114.3679239292587"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/70#xywh=980,1836,1471,2395"
             }
           ]
         }
@@ -2353,11 +2350,11 @@
       "width": 4457,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p42/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p42/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-main-images",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -2377,12 +2374,12 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-jaune",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_kubelkamunk-unmix_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 534,
                 "width": 303,
                 "service": [
@@ -2395,19 +2392,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: jaune\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: jaune | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3790.910209574587,3776.3347927050563,2532.393650624092,2434.2550253127342"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-rouge-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_mtmf_rule_rouge.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2420,19 +2417,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: rouge\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: rouge | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-encre-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_unmix_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2445,19 +2442,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: encre\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: encre | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-encre-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_sam_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2470,19 +2467,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: encre\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: encre | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-noirci",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_kubelkamunk-unmix_rule_rouge_noirci.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 534,
                 "width": 303,
                 "service": [
@@ -2495,19 +2492,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: noirci\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: noirci | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3790.910209574587,3776.3347927050563,2532.393650624092,2434.2550253127342"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-bleu",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_kubelkamunk-unmix_rule_bleu.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 534,
                 "width": 303,
                 "service": [
@@ -2520,19 +2517,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: bleu\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: bleu | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3790.910209574587,3776.3347927050563,2532.393650624092,2434.2550253127342"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-noirci-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_unmix_rule_rouge_noirci.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2545,19 +2542,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: noirci\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: noirci | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-rouge",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_kubelkamunk-unmix_rule_rouge.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 534,
                 "width": 303,
                 "service": [
@@ -2570,19 +2567,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: rouge\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: rouge | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3790.910209574587,3776.3347927050563,2532.393650624092,2434.2550253127342"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-parchemin-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_mtmf_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2595,19 +2592,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: parchemin\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: parchemin | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-bleu-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_unmix_rule_bleu.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2620,19 +2617,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: bleu\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: bleu | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-bleu-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_mtmf_rule_bleu.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2645,19 +2642,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: bleu\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: bleu | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-bleu-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_sam_rule_bleu.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2670,19 +2667,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: bleu\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: bleu | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-jaune-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_mtmf_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2695,19 +2692,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: jaune\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: jaune | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-encre-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_mtmf_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2720,19 +2717,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: encre\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: encre | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-parchemin",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_kubelkamunk-unmix_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 534,
                 "width": 303,
                 "service": [
@@ -2745,19 +2742,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: parchemin\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: parchemin | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3790.910209574587,3776.3347927050563,2532.393650624092,2434.2550253127342"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-jaune-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_sam_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2770,19 +2767,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: jaune\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: jaune | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-encre",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_kubelkamunk-unmix_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 534,
                 "width": 303,
                 "service": [
@@ -2795,19 +2792,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: encre\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: encre | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3790.910209574587,3776.3347927050563,2532.393650624092,2434.2550253127342"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-noirci-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_sam_rule_rouge_noirci.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2820,19 +2817,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: noirci\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: noirci | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-parchemin-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_unmix_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2845,19 +2842,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: parchemin\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: parchemin | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-rouge-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_unmix_rule_rouge.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2870,19 +2867,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: rouge\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: rouge | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-noirci-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_mtmf_rule_rouge_noirci.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2895,19 +2892,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: noirci\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: noirci | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-parchemin-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_sam_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2920,19 +2917,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: parchemin\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: parchemin | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-rouge-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_sam_rule_rouge.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2945,19 +2942,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: rouge\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: rouge | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_5-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_5-alt-images-jaune-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_5&Ms59-f42-obj56-frame100-dist43-SWIR_unmix_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 515,
                 "width": 320,
                 "service": [
@@ -2970,11 +2967,11 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: jaune\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: jaune | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#3589.518104690937,3915.65588214466,2397.8602379346876,2524.0624922660195"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/91#xywh=1569,2017,1048,1300"
             }
           ]
         }
@@ -2992,11 +2989,11 @@
       "width": 4329,
       "items": [
         {
-          "id": "https://crc-centre-recherche-conservation.github.io/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p53/1",
+          "id": "https://crc-centre-recherche-conservation.github.io/iiif/iiif/Avranches_BM_59_CRC_HS_SWIR&page/p53/1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_6-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_6-main-images",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -3016,12 +3013,12 @@
               "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_6-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_6-alt-images-fonce-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_6&Ms59-f53v-obj56-frame100-dist43-SWIRbis-1_refl_unmix_rule_orange_fonce.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 793,
                 "width": 320,
                 "service": [
@@ -3034,19 +3031,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: fonce\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: fonce | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#5933.641533884999,995.075763442623,2221.732012573125,2985.2272910983606"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=2678,789,1003,2367"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_6-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_6-alt-images-parchemin-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_6&Ms59-f53v-obj56-frame100-dist43-SWIRbis-1_refl_mtmf_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 793,
                 "width": 320,
                 "service": [
@@ -3059,19 +3056,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: parchemin\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: parchemin | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#5933.641533884999,995.075763442623,2221.732012573125,2985.2272910983606"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=2678,789,1003,2367"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_6-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_6-alt-images-jaune-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_6&Ms59-f53v-obj56-frame100-dist43-SWIRbis-1_refl_mtmf_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 793,
                 "width": 320,
                 "service": [
@@ -3084,19 +3081,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: jaune\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: jaune | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#5933.641533884999,995.075763442623,2221.732012573125,2985.2272910983606"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=2678,789,1003,2367"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_6-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_6-alt-images-jaune-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_6&Ms59-f53v-obj56-frame100-dist43-SWIRbis-1_refl_unmix_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 793,
                 "width": 320,
                 "service": [
@@ -3109,19 +3106,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: jaune\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: jaune | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#5933.641533884999,995.075763442623,2221.732012573125,2985.2272910983606"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=2678,789,1003,2367"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_6-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_6-alt-images-encre-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_6&Ms59-f53v-obj56-frame100-dist43-SWIRbis-1_refl_mtmf_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 793,
                 "width": 320,
                 "service": [
@@ -3134,19 +3131,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: encre\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: encre | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#5933.641533884999,995.075763442623,2221.732012573125,2985.2272910983606"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=2678,789,1003,2367"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_6-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_6-alt-images-clair-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_6&Ms59-f53v-obj56-frame100-dist43-SWIRbis-1_refl_mtmf_rule_orange_clair.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 793,
                 "width": 320,
                 "service": [
@@ -3159,19 +3156,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: clair\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: clair | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#5933.641533884999,995.075763442623,2221.732012573125,2985.2272910983606"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=2678,789,1003,2367"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_6-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_6-alt-images-fonce-mtmf",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_6&Ms59-f53v-obj56-frame100-dist43-SWIRbis-1_refl_mtmf_rule_orange_fonce.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 793,
                 "width": 320,
                 "service": [
@@ -3184,19 +3181,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: fonce\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: fonce | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#5933.641533884999,995.075763442623,2221.732012573125,2985.2272910983606"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=2678,789,1003,2367"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_6-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_6-alt-images-jaune-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_6&Ms59-f53v-obj56-frame100-dist43-SWIRbis-1_refl_sam_rule_jaune.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 793,
                 "width": 320,
                 "service": [
@@ -3209,19 +3206,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: jaune\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: jaune | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#5933.641533884999,995.075763442623,2221.732012573125,2985.2272910983606"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=2678,789,1003,2367"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_6-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_6-alt-images-encre-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_6&Ms59-f53v-obj56-frame100-dist43-SWIRbis-1_refl_unmix_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 793,
                 "width": 320,
                 "service": [
@@ -3234,19 +3231,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: encre\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: encre | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#5933.641533884999,995.075763442623,2221.732012573125,2985.2272910983606"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=2678,789,1003,2367"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_6-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_6-alt-images-clair-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_6&Ms59-f53v-obj56-frame100-dist43-SWIRbis-1_refl_unmix_rule_orange_clair.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 793,
                 "width": 320,
                 "service": [
@@ -3259,19 +3256,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: clair\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: clair | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#5933.641533884999,995.075763442623,2221.732012573125,2985.2272910983606"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=2678,789,1003,2367"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_6-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_6-alt-images-encre-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_6&Ms59-f53v-obj56-frame100-dist43-SWIRbis-1_refl_sam_rule_encre.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 793,
                 "width": 320,
                 "service": [
@@ -3284,19 +3281,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: encre\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: encre | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#5933.641533884999,995.075763442623,2221.732012573125,2985.2272910983606"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=2678,789,1003,2367"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_6-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_6-alt-images-parchemin-unmix",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_6&Ms59-f53v-obj56-frame100-dist43-SWIRbis-1_refl_unmix_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 793,
                 "width": 320,
                 "service": [
@@ -3309,19 +3306,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: parchemin\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: parchemin | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#5933.641533884999,995.075763442623,2221.732012573125,2985.2272910983606"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=2678,789,1003,2367"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_6-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_6-alt-images-fonce-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_6&Ms59-f53v-obj56-frame100-dist43-SWIRbis-1_refl_sam_rule_orange_fonce.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 793,
                 "width": 320,
                 "service": [
@@ -3334,19 +3331,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: fonce\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: fonce | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#5933.641533884999,995.075763442623,2221.732012573125,2985.2272910983606"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=2678,789,1003,2367"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_6-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_6-alt-images-parchemin-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_6&Ms59-f53v-obj56-frame100-dist43-SWIRbis-1_refl_sam_rule_parchemin.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 793,
                 "width": 320,
                 "service": [
@@ -3359,19 +3356,19 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: parchemin\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: parchemin | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#5933.641533884999,995.075763442623,2221.732012573125,2985.2272910983606"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=2678,789,1003,2367"
             },
             {
-              "id": "https://crc-centre-recherche-conservation.github.io/annotation/HS_SWIR_6-main-images",
+              "id": "https://crc-centre-recherche-conservation.github.io/iiif/annotation/HS_SWIR_6-alt-images-clair-sam",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
                 "id": "https://192.168.122.28:8183/iiif/3/Ms59%2FHS_SWIR_6&Ms59-f53v-obj56-frame100-dist43-SWIRbis-1_refl_sam_rule_orange_clair.png/full/max/0/default.png",
-                "type": "dctypes:Image",
+                "type": "Image",
                 "height": 793,
                 "width": 320,
                 "service": [
@@ -3384,11 +3381,11 @@
                 "format": "image/png",
                 "label": {
                   "fr": [
-                    "Distance (objet/objectif): 43\nSpectre de référence: clair\nObjectif (mm): 56\nAggrégation de pixels: Non"
+                    "Distance (objet/objectif): 43 | Spectre de référence: clair | Objectif (mm): 56 | Aggrégation de pixels: Non"
                   ]
                 }
               },
-              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#5933.641533884999,995.075763442623,2221.732012573125,2985.2272910983606"
+              "target": "https://iiif.unicaen.fr/mrsh/bvmsm/AVRANCHES_MS059/114#xywh=2678,789,1003,2367"
             }
           ]
         }
